@@ -1,0 +1,2 @@
+1. Using tableau
+gcloud compute ssh nyu-dataproc-m --project hpc-dataproc-19b8 --zone us-central1-f -- -NL 10000:localhost:10000
