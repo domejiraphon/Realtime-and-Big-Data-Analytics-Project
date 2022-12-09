@@ -1,12 +1,18 @@
 # RBDA_project
 ## Join table format 
 The join table is out.txt. The columns are as follows:
+- Date
+- newCovidCases (int)
+- newRecoveryCases (int)
+- googleSearchTop5 (string) 
+- schoolClosingPolicy (float)
+- incomeSupport (float)
+- debtSupport (float) 
+- testingPolicy (float)
+- contactPolicy (float)
+- facialCoveringPolicy (float)
+- tweetsScore (float)
 
-| Date | newCovidCases (int) | newRecoveryCases (int) | googleSearchTop5 (string) | schoolClosingPolicy (float) | incomeSupport (float) | debtSupport (float) | testingPolicy (float) | contactPolicy (float) | facialCoveringPolicy (float) | tweetsScore (float)|
-
-| ------------- | ------------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-
-| 2020-03-19|14961|0|alcoholism/fatty_liver_disease/colitis/impulsivity/otitis_externa/|3.0|2.0|0.0|1.0|1.0|1.0|0.0|-0.0047686566 |
 ## Weather Data
 The input weather datasets include air quality index (AQI), temperature (TEMP) and barometric pressure (PRESS).
 The output records of MR contain the fields: local date, state code, state name, AQI, temperature, pressure.
