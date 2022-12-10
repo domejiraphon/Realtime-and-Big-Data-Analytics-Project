@@ -2,10 +2,11 @@ DROP TABLE cases;
 DROP TABLE trends;
 DROP TABLE response;
 DROP TABLE joinTable;
+DROP TABLE tweets;
 
 CREATE EXTERNAL TABLE cases (case_date date, newCases int, recoveryCases int)
     row format delimited fields terminated by ','
-    location '/user/jy3694_nyu_edu/hiveCases/';
+    location '/user/jy3694_nyu_edu/hivecases/';
 
 CREATE EXTERNAL TABLE  trends (trends_date date, trend string)
     row format delimited fields terminated by ','
