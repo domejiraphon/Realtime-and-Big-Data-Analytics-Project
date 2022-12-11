@@ -1,11 +1,12 @@
 # RBDA_project
 ## Join table format 
 The join table is out.txt. The columns are as follows:
-- Date
+- Date 
 - newCovidCases (int)
 - newRecoveryCases (int)
 - googleSearchTop5 (string) 
 - schoolClosingPolicy (float)
+- workClosingPolicy (float)
 - incomeSupport (float)
 - debtSupport (float) 
 - testingPolicy (float)
