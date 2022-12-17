@@ -1,0 +1,10 @@
+hadoop fs -mkdir TweetsProject
+javac -classpath `hadoop classpath` TweetsMapper.java
+javac -classpath `hadoop classpath` TweetsReducer.java
+javac -classpath `hadoop classpath`:. Tweets.java
+jar cvf TweetsAnalysis.jar *.class
+
+hadoop fs -put combined-tweets-files.csv TweetsProject
+hadoop jar TweetsAnalysis.jar Tweets TweetsProject/combined-tweets-files.csv TweetsProject/output
+hadoop fs -cat TweetsProject/output/part-r-00000
+
