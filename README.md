@@ -35,3 +35,7 @@ Information related to the COVID-19 infections for each date-region pair.
 ```
 https://github.com/GoogleCloudPlatform/covid-19-open-data/blob/main/docs/table-epidemiology.md
 ```
+
+## Tweets Data
+The input tweets datasets include tweets ID and sentiment score of each tweet.
+The output of MapReduce jobs contains date and average tweets sentiment score from that date.
