@@ -33,11 +33,21 @@ sh run.sh
 cd Yiyi/scripts
 hive -f query.hql
 ```
-
+# Wenni's code
 ## Tweets Data
 The input tweets datasets include tweets ID and sentiment score of each tweet.
 The output of MapReduce jobs contains date and average tweets sentiment score from that date.
 
+### To run mapreduce code
+```
+hadoop fs -mkdir TweetsProject
+javac -classpath `hadoop classpath` TweetsMapper.java
+javac -classpath `hadoop classpath` TweetsReducer.java
+javac -classpath `hadoop classpath`:. Tweets.java
+jar cvf TweetsAnalysis.jar *.class
+hadoop fs -put combined-tweets-files.csv TweetsProject
+hadoop jar TweetsAnalysis.jar Tweets TweetsProject/combined-tweets-files.csv TweetsProject/output
+```
 ## Join table format for tweets and Covid
 The join table is out.txt. The columns are as follows:
 - Date 
