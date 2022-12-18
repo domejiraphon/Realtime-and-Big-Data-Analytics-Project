@@ -18,11 +18,21 @@ cd dome/scripts
 hive -f query_state.hql
 hive -f query.hql
 ```
+# Yiyi's code
 ## Weather Data
 The input weather datasets include air quality index (AQI), temperature (TEMP) and barometric pressure (PRESS).
 The output records of MR contain the fields: local date, state code, state name, AQI, temperature, pressure.
 
-
+### To run mapreduce code
+```
+cd Yiyi/src
+sh run.sh
+```
+### To run Hive query
+```
+cd Yiyi/scripts
+hive -f query.hql
+```
 
 ## Tweets Data
 The input tweets datasets include tweets ID and sentiment score of each tweet.
