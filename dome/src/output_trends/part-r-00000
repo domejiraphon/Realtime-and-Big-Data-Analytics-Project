@@ -1,0 +1,985 @@
+2020-01-01,California	{alcoholism=6, otitis_externa=10, constipation=8, abdominal_obesity=5, angular_cheilitis=1}
+2020-01-02,California	{alcoholism=8, otitis_externa=10, constipation=6, abdominal_obesity=5, desquamation=1}
+2020-01-03,California	{alcoholism=3, otitis_externa=10, abdominal_obesity=6, angular_cheilitis=1}
+2020-01-04,California	{alcoholism=6, otitis_externa=10, abdominal_obesity=7}
+2020-01-05,California	{alcoholism=5, otitis_externa=10, constipation=6, abdominal_obesity=9}
+2020-01-06,California	{alcoholism=9, otitis_externa=10, constipation=4, abdominal_obesity=6, angular_cheilitis=1}
+2020-01-07,California	{alcoholism=8, otitis_externa=10, constipation=5, abdominal_obesity=3, angular_cheilitis=2}
+2020-01-08,California	{erectile_dysfunction=5, otitis_externa=10}
+2020-01-09,California	{alcoholism=5, otitis_externa=10, abdominal_obesity=3, angular_cheilitis=1}
+2020-01-10,California	{alcoholism=8, otitis_externa=10, constipation=2, sinusitis=5, abdominal_obesity=4}
+2020-01-11,California	{alcoholism=9, otitis_externa=10, sinusitis=1, abdominal_obesity=8}
+2020-01-12,California	{alcoholism=7, otitis_externa=10, constipation=2, abdominal_obesity=9, angular_cheilitis=1}
+2020-01-13,California	{alcoholism=7, otitis_externa=10, abdominal_obesity=6, desquamation=3, angular_cheilitis=4}
+2020-01-14,California	{alcoholism=7, otitis_externa=10, abdominal_obesity=5, desquamation=2, angular_cheilitis=4}
+2020-01-15,California	{alcoholism=9, otitis_externa=10, abdominal_obesity=7, angular_cheilitis=2}
+2020-01-16,California	{alcoholism=8, otitis_externa=10, constipation=2, abdominal_obesity=6, angular_cheilitis=3}
+2020-01-17,California	{otitis_externa=10, abdominal_obesity=4, desquamation=2}
+2020-01-18,California	{otitis_externa=10, constipation=3, sinusitis=1, abdominal_obesity=8}
+2020-01-19,California	{alcoholism=8, otitis_externa=10, constipation=2, abdominal_obesity=9, angular_cheilitis=1}
+2020-01-20,California	{otitis_externa=10, abdominal_obesity=9, desquamation=1}
+2020-01-21,California	{alcoholism=6, otitis_externa=10, abdominal_obesity=5, angular_cheilitis=1}
+2020-01-22,California	{alcoholism=7, otitis_externa=10, hyperpigmentation=2, constipation=5, angular_cheilitis=4}
+2020-01-23,California	{alcoholism=5, otitis_externa=10, constipation=6, abdominal_obesity=7, angular_cheilitis=1}
+2020-01-24,California	{alcoholism=8, otitis_externa=10, constipation=7, abdominal_obesity=3, angular_cheilitis=1}
+2020-01-25,California	{otitis_externa=10, hyperpigmentation=1, constipation=9, abdominal_obesity=5}
+2020-01-26,California	{alcoholism=5, otitis_externa=10, sinusitis=1, abdominal_obesity=7}
+2020-01-27,California	{otitis_externa=10, constipation=9, angular_cheilitis=1}
+2020-01-28,California	{alcoholism=8, otitis_externa=10, constipation=7, angular_cheilitis=1}
+2020-01-29,California	{otitis_externa=10, constipation=4, sinusitis=1, angular_cheilitis=5}
+2020-01-30,California	{alcoholism=9, otitis_externa=10, constipation=8, sinusitis=2, angular_cheilitis=1}
+2020-01-31,California	{otitis_externa=10, constipation=8, abdominal_obesity=1}
+2020-02-01,California	{otitis_externa=10, constipation=4, sinusitis=1, abdominal_obesity=7}
+2020-02-02,California	{alcoholism=7, otitis_externa=10, constipation=2, abdominal_obesity=9, desquamation=1}
+2020-02-03,California	{otitis_externa=10, constipation=5, abdominal_obesity=1, angular_cheilitis=2}
+2020-02-04,California	{alcoholism=9, otitis_externa=10, constipation=7, abdominal_obesity=2, angular_cheilitis=1}
+2020-02-05,California	{otitis_externa=10, constipation=5, abdominal_obesity=2, angular_cheilitis=1}
+2020-02-06,California	{alcoholism=9, otitis_externa=10, constipation=6, abdominal_obesity=1, angular_cheilitis=3}
+2020-02-07,California	{otitis_externa=10, constipation=5, desquamation=1, angular_cheilitis=2}
+2020-02-08,California	{alcoholism=9, otitis_externa=10, constipation=4, abdominal_obesity=6, desquamation=1}
+2020-02-09,California	{otitis_externa=10, constipation=1, abdominal_obesity=7, angular_cheilitis=2}
+2020-02-10,California	{otitis_externa=10, constipation=7, abdominal_obesity=3}
+2020-02-11,California	{alcoholism=9, otitis_externa=10, constipation=6, abdominal_obesity=1, angular_cheilitis=2}
+2020-02-12,California	{alcoholism=9, otitis_externa=10, constipation=4, angular_cheilitis=2, desquamation=3}
+2020-02-13,California	{otitis_externa=10, abdominal_obesity=1, angular_cheilitis=4}
+2020-02-14,California	{otitis_externa=10, constipation=5, abdominal_obesity=1, angular_cheilitis=2}
+2020-02-15,California	{alcoholism=9, otitis_externa=10, constipation=4, abdominal_obesity=6, iron_deficiency=1}
+2020-02-16,California	{alcoholism=9, otitis_externa=10, constipation=2, abdominal_obesity=8, angular_cheilitis=1}
+2020-02-17,California	{otitis_externa=10, abdominal_obesity=8, desquamation=1}
+2020-02-18,California	{otitis_externa=10, abdominal_obesity=4, angular_cheilitis=2}
+2020-02-19,California	{otitis_externa=10, constipation=2, sinusitis=1, abdominal_obesity=4, angular_cheilitis=3}
+2020-02-20,California	{otitis_externa=10, hyperpigmentation=1, abdominal_obesity=6, angular_cheilitis=2}
+2020-02-21,California	{otitis_externa=10, constipation=1, sinusitis=2, abdominal_obesity=3, angular_cheilitis=4}
+2020-02-22,California	{alcoholism=9, otitis_externa=10, abdominal_obesity=7, angular_cheilitis=2}
+2020-02-23,California	{otitis_externa=10, abdominal_obesity=6, angular_cheilitis=2}
+2020-02-24,California	{alcoholism=9, otitis_externa=10, abdominal_obesity=3, desquamation=2, angular_cheilitis=4}
+2020-02-25,California	{otitis_externa=10, abdominal_obesity=5, desquamation=1, angular_cheilitis=3}
+2020-02-26,California	{otitis_externa=10, constipation=4, abdominal_obesity=3, angular_cheilitis=1}
+2020-02-27,California	{alcoholism=9, otitis_externa=10, constipation=7, angular_cheilitis=4}
+2020-02-28,California	{otitis_externa=10, constipation=7, abdominal_obesity=2, desquamation=1}
+2020-02-29,California	{otitis_externa=10, constipation=8, abdominal_obesity=2}
+2020-03-01,California	{otitis_externa=10, constipation=5, abdominal_obesity=4, angular_cheilitis=1}
+2020-03-02,California	{otitis_externa=10, constipation=8, abdominal_obesity=1}
+2020-03-03,California	{otitis_externa=10, constipation=7, angular_cheilitis=3}
+2020-03-04,California	{otitis_externa=10, constipation=9, angular_cheilitis=1}
+2020-03-05,California	{otitis_externa=10, constipation=8, angular_cheilitis=1}
+2020-03-06,California	{otitis_externa=10, constipation=7, abdominal_obesity=1, angular_cheilitis=2}
+2020-03-07,California	{otitis_externa=10, constipation=8, angular_cheilitis=1}
+2020-03-08,California	{otitis_externa=10, constipation=7, abdominal_obesity=2, desquamation=1}
+2020-03-09,California	{alcoholism=9, otitis_externa=10, hyperpigmentation=1}
+2020-03-10,California	{alcoholism=9, otitis_externa=10, sinusitis=1}
+2020-03-11,California	{otitis_externa=10}
+2020-03-12,California	{alcoholism=7, fatty_liver_disease=3, otitis_externa=10}
+2020-03-13,California	{alcoholism=7, fatty_liver_disease=3, otitis_externa=10}
+2020-03-14,California	{alcoholism=1, fatty_liver_disease=9, otitis_externa=10}
+2020-03-15,California	{alcoholism=2, fatty_liver_disease=8, otitis_externa=10}
+2020-03-16,California	{otitis_externa=10}
+2020-03-17,California	{otitis_externa=10}
+2020-03-18,California	{otitis_externa=10}
+2020-03-19,California	{fatty_liver_disease=9, otitis_externa=10, apnea=2}
+2020-03-20,California	{alcoholism=5, otitis_externa=10}
+2020-03-21,California	{alcoholism=7, fatty_liver_disease=6, otitis_externa=10}
+2020-03-22,California	{alcoholism=9, fatty_liver_disease=6, otitis_externa=10, constipation=5}
+2020-03-23,California	{alcoholism=9, fatty_liver_disease=8, otitis_externa=10, constipation=3}
+2020-03-24,California	{fatty_liver_disease=8, otitis_externa=10, constipation=2}
+2020-03-25,California	{fatty_liver_disease=9, otitis_externa=10, constipation=2}
+2020-03-26,California	{fatty_liver_disease=7, otitis_externa=10, constipation=3}
+2020-03-27,California	{fatty_liver_disease=8, otitis_externa=10, sinusitis=1}
+2020-03-28,California	{fatty_liver_disease=5, otitis_externa=10, constipation=1, abdominal_obesity=4}
+2020-03-29,California	{otitis_externa=10, abdominal_obesity=9, angular_cheilitis=1}
+2020-03-30,California	{fatty_liver_disease=3, otitis_externa=10, abdominal_obesity=6, angular_cheilitis=1}
+2020-03-31,California	{fatty_liver_disease=1, otitis_externa=10, abdominal_obesity=8}
+2020-04-01,California	{alcoholism=9, fatty_liver_disease=1, otitis_externa=10}
+2020-04-02,California	{fatty_liver_disease=1, otitis_externa=10, abdominal_obesity=9}
+2020-04-03,California	{otitis_externa=10}
+2020-04-04,California	{otitis_externa=10}
+2020-04-05,California	{alcoholism=9, otitis_externa=10, angular_cheilitis=1}
+2020-04-06,California	{otitis_externa=10, abdominal_obesity=9, apnea=2}
+2020-04-07,California	{otitis_externa=10, abdominal_obesity=9, iron_deficiency=1}
+2020-04-08,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=9}
+2020-04-09,California	{otitis_externa=10, abdominal_obesity=8, impulsivity=9, angular_cheilitis=1}
+2020-04-10,California	{otitis_externa=10, abdominal_obesity=9, desquamation=1}
+2020-04-11,California	{otitis_externa=10, abdominal_obesity=8, iron_deficiency=2}
+2020-04-12,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=8}
+2020-04-13,California	{otitis_externa=10, abdominal_obesity=8, iron_deficiency=2}
+2020-04-14,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=8}
+2020-04-15,California	{otitis_externa=10, abdominal_obesity=9, angular_cheilitis=1}
+2020-04-16,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=8}
+2020-04-17,California	{otitis_externa=10, abdominal_obesity=9, iron_deficiency=2}
+2020-04-18,California	{otitis_externa=10, colitis=9, sinusitis=1, abdominal_obesity=8}
+2020-04-19,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=9}
+2020-04-20,California	{otitis_externa=10, abdominal_obesity=8, angular_cheilitis=1}
+2020-04-21,California	{otitis_externa=10, colitis=8, abdominal_obesity=9, angular_cheilitis=1}
+2020-04-22,California	{otitis_externa=10, colitis=8, abdominal_obesity=9, dentin_hypersensitivity=1}
+2020-04-23,California	{otitis_externa=10, colitis=9, sinusitis=1, abdominal_obesity=8}
+2020-04-24,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=9}
+2020-04-25,California	{otitis_externa=10, sinusitis=2, abdominal_obesity=7, iron_deficiency=4}
+2020-04-26,California	{otitis_externa=10, colitis=5, sinusitis=3, abdominal_obesity=7, iron_deficiency=4}
+2020-04-27,California	{otitis_externa=10, colitis=6, abdominal_obesity=7, iron_deficiency=3, angular_cheilitis=2}
+2020-04-28,California	{otitis_externa=10, colitis=5, abdominal_obesity=8, iron_deficiency=3, angular_cheilitis=2}
+2020-04-29,California	{otitis_externa=10, abdominal_obesity=8, iron_deficiency=2, angular_cheilitis=1}
+2020-04-30,California	{otitis_externa=10, colitis=7, sinusitis=2, abdominal_obesity=8, angular_cheilitis=1}
+2020-05-01,California	{otitis_externa=10, abdominal_obesity=7, angular_cheilitis=2}
+2020-05-02,California	{otitis_externa=10, colitis=5, abdominal_obesity=9, iron_deficiency=4, angular_cheilitis=1}
+2020-05-03,California	{otitis_externa=10, sinusitis=3, abdominal_obesity=9, iron_deficiency=5}
+2020-05-04,California	{otitis_externa=10, colitis=3, abdominal_obesity=8, iron_deficiency=5, angular_cheilitis=2}
+2020-05-05,California	{otitis_externa=10, colitis=5, abdominal_obesity=7, iron_deficiency=4, angular_cheilitis=3}
+2020-05-06,California	{otitis_externa=10, colitis=4, abdominal_obesity=8, angular_cheilitis=2}
+2020-05-07,California	{otitis_externa=10, colitis=4, sinusitis=1, abdominal_obesity=9, angular_cheilitis=2}
+2020-05-08,California	{otitis_externa=10, colitis=3, sinusitis=2, abdominal_obesity=8, iron_deficiency=6}
+2020-05-09,California	{otitis_externa=10, colitis=1, sinusitis=2, abdominal_obesity=8, iron_deficiency=9}
+2020-05-10,California	{alcoholism=9, otitis_externa=10, colitis=1, sinusitis=2, abdominal_obesity=8}
+2020-05-11,California	{otitis_externa=10, colitis=3, abdominal_obesity=9, iron_deficiency=2, angular_cheilitis=4}
+2020-05-12,California	{otitis_externa=10, sinusitis=1, angular_cheilitis=9}
+2020-05-13,California	{otitis_externa=10, hyperpigmentation=1, abdominal_obesity=9, desquamation=2, angular_cheilitis=8}
+2020-05-14,California	{otitis_externa=10, desquamation=1, angular_cheilitis=9}
+2020-05-15,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=9, angular_cheilitis=8}
+2020-05-16,California	{otitis_externa=10}
+2020-05-17,California	{otitis_externa=10, nosebleed=1, iron_deficiency=6, angular_cheilitis=3}
+2020-05-18,California	{otitis_externa=10}
+2020-05-19,California	{alcoholism=9, otitis_externa=10, abdominal_obesity=5, apnea=6, angular_cheilitis=2}
+2020-05-20,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=9, angular_cheilitis=8}
+2020-05-21,California	{otitis_externa=10, sinusitis=2, abdominal_obesity=8, desquamation=1, angular_cheilitis=7}
+2020-05-22,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=9, iron_deficiency=3, angular_cheilitis=6}
+2020-05-23,California	{otitis_externa=10, sinusitis=3, abdominal_obesity=8, desquamation=1}
+2020-05-24,California	{otitis_externa=10, sinusitis=3, abdominal_obesity=8, iron_deficiency=9}
+2020-05-25,California	{otitis_externa=10, sinusitis=3, abdominal_obesity=8, angular_cheilitis=1}
+2020-05-26,California	{otitis_externa=10, autoimmune_disease=1, sinusitis=3, abdominal_obesity=7, iron_deficiency=9}
+2020-05-27,California	{alcoholism=9, otitis_externa=10, abdominal_obesity=8, iron_deficiency=7, desquamation=3}
+2020-05-28,California	{otitis_externa=10, abdominal_obesity=9, subdural_hematoma=1}
+2020-05-29,California	{otitis_externa=10, sinusitis=2, abdominal_obesity=6, angular_cheilitis=1, desquamation=9}
+2020-05-30,California	{otitis_externa=10, sinusitis=3, abdominal_obesity=8, iron_deficiency=5, desquamation=4}
+2020-05-31,California	{otitis_externa=10, sinusitis=2, abdominal_obesity=8}
+2020-06-01,California	{otitis_externa=10, ascites=2, abdominal_obesity=8, iron_deficiency=7, angular_cheilitis=1}
+2020-06-02,California	{otitis_externa=10, sinusitis=2, abdominal_obesity=8, iron_deficiency=5, angular_cheilitis=4}
+2020-06-03,California	{otitis_externa=10, abdominal_obesity=8, angular_cheilitis=1}
+2020-06-04,California	{otitis_externa=10, sinusitis=2, abdominal_obesity=8, iron_deficiency=9, desquamation=1}
+2020-06-05,California	{otitis_externa=10, sinusitis=2, abdominal_obesity=8, desquamation=3, angular_cheilitis=4}
+2020-06-06,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=8, iron_deficiency=7, angular_cheilitis=3}
+2020-06-07,California	{otitis_externa=10, abdominal_obesity=9, iron_deficiency=8, angular_cheilitis=1}
+2020-06-08,California	{otitis_externa=10, abdominal_obesity=7, desquamation=2, angular_cheilitis=4}
+2020-06-09,California	{otitis_externa=10, abdominal_obesity=9, iron_deficiency=4, angular_cheilitis=2, desquamation=3}
+2020-06-10,California	{otitis_externa=10, abdominal_obesity=8, iron_deficiency=5, desquamation=3, angular_cheilitis=4}
+2020-06-11,California	{otitis_externa=10, abdominal_obesity=8, iron_deficiency=5, desquamation=3, angular_cheilitis=4}
+2020-06-12,California	{otitis_externa=10, sinusitis=2, abdominal_obesity=7, iron_deficiency=5, angular_cheilitis=3}
+2020-06-13,California	{otitis_externa=10, autoimmune_disease=1, sinusitis=2, abdominal_obesity=7, iron_deficiency=8}
+2020-06-14,California	{otitis_externa=10, sinusitis=3, abdominal_obesity=7, iron_deficiency=8, angular_cheilitis=2}
+2020-06-15,California	{otitis_externa=10, sinusitis=2, abdominal_obesity=8, iron_deficiency=3, angular_cheilitis=5}
+2020-06-16,California	{otitis_externa=10, abdominal_obesity=8, iron_deficiency=5, angular_cheilitis=2, desquamation=3}
+2020-06-17,California	{otitis_externa=10, abdominal_obesity=8, desquamation=3, angular_cheilitis=6}
+2020-06-18,California	{otitis_externa=10, sinusitis=2, abdominal_obesity=8, iron_deficiency=5, angular_cheilitis=3}
+2020-06-19,California	{otitis_externa=10, abdominal_obesity=8, iron_deficiency=7, desquamation=2, angular_cheilitis=3}
+2020-06-20,California	{otitis_externa=10, sinusitis=3, abdominal_obesity=7, iron_deficiency=8, subdural_hematoma=1}
+2020-06-21,California	{otitis_externa=10, sinusitis=3, abdominal_obesity=7}
+2020-06-22,California	{otitis_externa=10, iron_deficiency=8, angular_cheilitis=2}
+2020-06-23,California	{otitis_externa=10, sinusitis=2, abdominal_obesity=8, iron_deficiency=5, angular_cheilitis=3}
+2020-06-24,California	{otitis_externa=10, colitis=1, sinusitis=2, abdominal_obesity=8, angular_cheilitis=3}
+2020-06-25,California	{otitis_externa=10, abdominal_obesity=8, iron_deficiency=2, desquamation=3, angular_cheilitis=5}
+2020-06-26,California	{otitis_externa=10, sinusitis=2, abdominal_obesity=8, iron_deficiency=5, angular_cheilitis=3}
+2020-06-27,California	{otitis_externa=10, sinusitis=2, abdominal_obesity=8, iron_deficiency=7, angular_cheilitis=1}
+2020-06-28,California	{otitis_externa=10, colitis=1, sinusitis=2, abdominal_obesity=8, iron_deficiency=9}
+2020-06-29,California	{alcoholism=9, otitis_externa=10, abdominal_obesity=8, iron_deficiency=5, angular_cheilitis=3}
+2020-06-30,California	{otitis_externa=10, sinusitis=2, abdominal_obesity=8, angular_cheilitis=4}
+2020-07-01,California	{otitis_externa=10, sinusitis=2, abdominal_obesity=8, iron_deficiency=4, angular_cheilitis=3}
+2020-07-02,California	{otitis_externa=10, colitis=3, abdominal_obesity=8, iron_deficiency=2, angular_cheilitis=6}
+2020-07-03,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=8, iron_deficiency=6, angular_cheilitis=2}
+2020-07-04,California	{otitis_externa=10, colitis=2, sinusitis=3, abdominal_obesity=7, iron_deficiency=8}
+2020-07-05,California	{otitis_externa=10, colitis=1, sinusitis=3, abdominal_obesity=7, iron_deficiency=9}
+2020-07-06,California	{otitis_externa=10, colitis=2, abdominal_obesity=8, angular_cheilitis=1}
+2020-07-07,California	{alcoholism=9, otitis_externa=10, abdominal_obesity=8, iron_deficiency=5, angular_cheilitis=2}
+2020-07-08,California	{otitis_externa=10, colitis=2, abdominal_obesity=8, angular_cheilitis=3, desquamation=4}
+2020-07-09,California	{otitis_externa=10, colitis=3, abdominal_obesity=8, angular_cheilitis=2}
+2020-07-10,California	{otitis_externa=10, colitis=2, sinusitis=1, abdominal_obesity=7, angular_cheilitis=4}
+2020-07-11,California	{otitis_externa=10, abdominal_obesity=8, iron_deficiency=9, angular_cheilitis=1}
+2020-07-12,California	{otitis_externa=10, colitis=1, sinusitis=3, abdominal_obesity=7, iron_deficiency=9}
+2020-07-13,California	{otitis_externa=10, colitis=2, abdominal_obesity=8, iron_deficiency=4, angular_cheilitis=3}
+2020-07-14,California	{otitis_externa=10, abdominal_obesity=8, iron_deficiency=3, desquamation=2, angular_cheilitis=5}
+2020-07-15,California	{otitis_externa=10, colitis=2, abdominal_obesity=8, desquamation=4, angular_cheilitis=5}
+2020-07-16,California	{alcoholism=9, otitis_externa=10, abdominal_obesity=8, desquamation=3, angular_cheilitis=4}
+2020-07-17,California	{otitis_externa=10, abdominal_obesity=7, iron_deficiency=1, desquamation=3, angular_cheilitis=6}
+2020-07-18,California	{otitis_externa=10, sinusitis=2, abdominal_obesity=8, desquamation=1}
+2020-07-19,California	{otitis_externa=10, sinusitis=2, abdominal_obesity=8}
+2020-07-20,California	{otitis_externa=10, sinusitis=2, abdominal_obesity=8, desquamation=1, angular_cheilitis=4}
+2020-07-21,California	{otitis_externa=10, abdominal_obesity=8, iron_deficiency=2, angular_cheilitis=4, desquamation=5}
+2020-07-22,California	{otitis_externa=10, abdominal_obesity=9, desquamation=4, angular_cheilitis=7}
+2020-07-23,California	{otitis_externa=10, iron_deficiency=1, desquamation=3, angular_cheilitis=8}
+2020-07-24,California	{otitis_externa=10, sinusitis=2, abdominal_obesity=6, iron_deficiency=3, angular_cheilitis=4}
+2020-07-25,California	{otitis_externa=10, sinusitis=2, abdominal_obesity=8, iron_deficiency=7, angular_cheilitis=3}
+2020-07-26,California	{otitis_externa=10, sinusitis=2, abdominal_obesity=8, angular_cheilitis=5}
+2020-07-27,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=7, angular_cheilitis=3}
+2020-07-28,California	{otitis_externa=10, abdominal_obesity=8, desquamation=1}
+2020-07-29,California	{otitis_externa=10, abdominal_obesity=8, desquamation=1}
+2020-07-30,California	{otitis_externa=10, abdominal_obesity=7, iron_deficiency=2, desquamation=1, angular_cheilitis=5}
+2020-07-31,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=8, angular_cheilitis=4}
+2020-08-01,California	{alcoholism=9, otitis_externa=10, colitis=1, abdominal_obesity=7, iron_deficiency=3}
+2020-08-02,California	{alcoholism=9, otitis_externa=10, sinusitis=1, abdominal_obesity=6, iron_deficiency=4}
+2020-08-03,California	{otitis_externa=10, abdominal_obesity=6, iron_deficiency=4}
+2020-08-04,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=6, iron_deficiency=3, angular_cheilitis=4}
+2020-08-05,California	{otitis_externa=10, abdominal_obesity=9, iron_deficiency=3, angular_cheilitis=2, desquamation=6}
+2020-08-06,California	{otitis_externa=10, abdominal_obesity=8, iron_deficiency=2, desquamation=4, angular_cheilitis=6}
+2020-08-07,California	{otitis_externa=10, abdominal_obesity=8, dentin_hypersensitivity=1, desquamation=3, angular_cheilitis=6}
+2020-08-08,California	{otitis_externa=10, colitis=1, abdominal_obesity=8, angular_cheilitis=3, adrenal_crisis=5}
+2020-08-09,California	{alcoholism=9, otitis_externa=10, abdominal_obesity=8, desquamation=1, angular_cheilitis=3}
+2020-08-10,California	{otitis_externa=10, indigestion=1, abdominal_obesity=7, desquamation=2, angular_cheilitis=9}
+2020-08-11,California	{otitis_externa=10, sinusitis=2, abdominal_obesity=7, iron_deficiency=3, angular_cheilitis=6}
+2020-08-12,California	{otitis_externa=10, colitis=1, abdominal_obesity=8, desquamation=2, angular_cheilitis=7}
+2020-08-13,California	{otitis_externa=10, abdominal_obesity=8, iron_deficiency=1, desquamation=4, angular_cheilitis=7}
+2020-08-14,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=7, angular_cheilitis=4}
+2020-08-15,California	{alcoholism=9, otitis_externa=10, iron_deficiency=4, angular_cheilitis=1, adrenal_crisis=8}
+2020-08-16,California	{otitis_externa=10, asperger_syndrome=5, abdominal_obesity=6, angular_cheilitis=1, adrenal_crisis=8}
+2020-08-17,California	{alcoholism=7, otitis_externa=10, abdominal_obesity=5, angular_cheilitis=8}
+2020-08-18,California	{otitis_externa=10, abdominal_obesity=5, angular_cheilitis=6, encephalopathy=1}
+2020-08-19,California	{otitis_externa=10, hyperpigmentation=1, desquamation=2, angular_cheilitis=5}
+2020-08-20,California	{otitis_externa=10, abdominal_obesity=5, desquamation=3, angular_cheilitis=9, encephalopathy=2}
+2020-08-21,California	{otitis_externa=10, abdominal_obesity=6, iron_deficiency=4, desquamation=2, angular_cheilitis=9}
+2020-08-22,California	{alcoholism=9, otitis_externa=10, sinusitis=1, abdominal_obesity=8, angular_cheilitis=2}
+2020-08-23,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=8, iron_deficiency=6, angular_cheilitis=5}
+2020-08-24,California	{otitis_externa=10, abdominal_obesity=7, desquamation=2, angular_cheilitis=9}
+2020-08-25,California	{otitis_externa=10, abdominal_obesity=8, iron_deficiency=2, desquamation=1, angular_cheilitis=9}
+2020-08-26,California	{alcoholism=9, abdominal_obesity=7, iron_deficiency=1, desquamation=3, angular_cheilitis=10}
+2020-08-27,California	{otitis_externa=10, abdominal_obesity=8, desquamation=2, angular_cheilitis=9, subdural_hematoma=1}
+2020-08-28,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=8, angular_cheilitis=9}
+2020-08-29,California	{otitis_externa=10, abdominal_obesity=8, iron_deficiency=4, desquamation=2, angular_cheilitis=6}
+2020-08-30,California	{otitis_externa=10, desquamation=2, angular_cheilitis=8}
+2020-08-31,California	{alcoholism=9, abdominal_obesity=7, iron_deficiency=3, desquamation=1, angular_cheilitis=10}
+2020-09-01,California	{alcoholism=9, abdominal_obesity=8, desquamation=3, angular_cheilitis=10}
+2020-09-02,California	{alcoholism=9, otitis_externa=10, dandruff=5, abdominal_obesity=6, angular_cheilitis=7}
+2020-09-03,California	{otitis_externa=10, indigestion=1, dandruff=2, abdominal_obesity=6, angular_cheilitis=9}
+2020-09-04,California	{otitis_externa=10, abdominal_obesity=8, iron_deficiency=2, desquamation=1, angular_cheilitis=9}
+2020-09-05,California	{otitis_externa=10, indigestion=1, abdominal_obesity=8, iron_deficiency=7, angular_cheilitis=3}
+2020-09-06,California	{otitis_externa=10, sinusitis=2, abdominal_obesity=9, iron_deficiency=8, desquamation=1}
+2020-09-07,California	{otitis_externa=10, abdominal_obesity=9, angular_cheilitis=1}
+2020-09-08,California	{abdominal_obesity=6, desquamation=2, angular_cheilitis=10}
+2020-09-09,California	{otitis_externa=11, trichoptilosis=1, abdominal_obesity=8, desquamation=3, angular_cheilitis=10}
+2020-09-10,California	{otitis_externa=11, abdominal_obesity=9, iron_deficiency=1, desquamation=3, angular_cheilitis=10}
+2020-09-11,California	{otitis_externa=11, sinusitis=1, abdominal_obesity=9, desquamation=3, angular_cheilitis=10}
+2020-09-12,California	{otitis_externa=11, sinusitis=1, abdominal_obesity=9, angular_cheilitis=10}
+2020-09-13,California	{abdominal_obesity=9, desquamation=1, angular_cheilitis=11}
+2020-09-14,California	{alcoholism=10, abdominal_obesity=9, desquamation=3, angular_cheilitis=11}
+2020-09-15,California	{otitis_externa=11, colitis=1, abdominal_obesity=8, desquamation=5, angular_cheilitis=10}
+2020-09-16,California	{alcoholism=8, otitis_externa=11, abdominal_obesity=9, desquamation=5, angular_cheilitis=10}
+2020-09-17,California	{abdominal_obesity=10, desquamation=1, angular_cheilitis=11}
+2020-09-18,California	{abdominal_obesity=8, desquamation=5, angular_cheilitis=11, subdural_hematoma=1}
+2020-09-19,California	{otitis_externa=11, abdominal_obesity=10, iron_deficiency=3, desquamation=2, angular_cheilitis=7}
+2020-09-20,California	{otitis_externa=11, abdominal_obesity=9, apnea=1, desquamation=2, angular_cheilitis=10}
+2020-09-21,California	{otitis_externa=11, abdominal_obesity=9, desquamation=3, angular_cheilitis=10, subdural_hematoma=1}
+2020-09-22,California	{otitis_externa=11, abdominal_obesity=9, iron_deficiency=1, angular_cheilitis=6, desquamation=7}
+2020-09-23,California	{alcoholism=10, otitis_externa=11, abdominal_obesity=9, desquamation=6, angular_cheilitis=7}
+2020-09-24,California	{alcoholism=9, otitis_externa=11, abdominal_obesity=8, desquamation=4, angular_cheilitis=10}
+2020-09-25,California	{alcoholism=9, otitis_externa=11, abdominal_obesity=8, desquamation=5, angular_cheilitis=10}
+2020-09-26,California	{otitis_externa=11, biliary_colic=1, abdominal_obesity=8, desquamation=4, angular_cheilitis=5}
+2020-09-27,California	{colitis=1, abdominal_obesity=9, angular_cheilitis=11}
+2020-09-28,California	{alcoholism=10, abdominal_obesity=8, desquamation=2, angular_cheilitis=11, encephalopathy=1}
+2020-09-29,California	{otitis_externa=11, colitis=1, abdominal_obesity=8, desquamation=3, angular_cheilitis=9}
+2020-09-30,California	{otitis_externa=11, desquamation=4, angular_cheilitis=9}
+2020-10-01,California	{alcoholism=9, otitis_externa=11, abdominal_obesity=8, desquamation=6, angular_cheilitis=10}
+2020-10-02,California	{alcoholism=9, otitis_externa=11, nosebleed=8, abdominal_obesity=6, angular_cheilitis=5}
+2020-10-03,California	{alcoholism=10, otitis_externa=11, abdominal_obesity=8, iron_deficiency=4, desquamation=5}
+2020-10-04,California	{otitis_externa=11, abdominal_obesity=10, iron_deficiency=5, angular_cheilitis=2, desquamation=3}
+2020-10-05,California	{otitis_externa=11, colitis=2, abdominal_obesity=9, desquamation=3, angular_cheilitis=10}
+2020-10-06,California	{alcoholism=10, otitis_externa=11, abdominal_obesity=7, desquamation=5, angular_cheilitis=9}
+2020-10-07,California	{alcoholism=10, colitis=1, abdominal_obesity=9, desquamation=2, angular_cheilitis=11}
+2020-10-08,California	{otitis_externa=11, desquamation=3, angular_cheilitis=10}
+2020-10-09,California	{otitis_externa=11, abdominal_obesity=7, angular_cheilitis=6, desquamation=10}
+2020-10-10,California	{otitis_externa=11, colitis=1, abdominal_obesity=9, angular_cheilitis=5, desquamation=7}
+2020-10-11,California	{alcoholism=8, otitis_externa=11, blushing=3, abdominal_obesity=10, angular_cheilitis=6}
+2020-10-12,California	{alcoholism=7, otitis_externa=11, hyperpigmentation=1, abdominal_obesity=8, angular_cheilitis=9}
+2020-10-13,California	{alcoholism=10, otitis_externa=11, dentin_hypersensitivity=1, desquamation=5, angular_cheilitis=8}
+2020-10-14,California	{alcoholism=10, otitis_externa=11, abdominal_obesity=9, desquamation=6, angular_cheilitis=7}
+2020-10-15,California	{otitis_externa=11, abdominal_obesity=9, dentin_hypersensitivity=1, desquamation=5, angular_cheilitis=6}
+2020-10-16,California	{otitis_externa=11, abdominal_obesity=10, desquamation=4, angular_cheilitis=8}
+2020-10-17,California	{alcoholism=10, otitis_externa=11, abdominal_obesity=7, iron_deficiency=6, angular_cheilitis=4}
+2020-10-18,California	{otitis_externa=11, desquamation=1, angular_cheilitis=8}
+2020-10-19,California	{alcoholism=10, colitis=1, abdominal_obesity=8, desquamation=3, angular_cheilitis=11}
+2020-10-20,California	{alcoholism=8, otitis_externa=11, food_intolerance=1, desquamation=3, angular_cheilitis=10}
+2020-10-21,California	{otitis_externa=11, indigestion=1, desquamation=2, angular_cheilitis=10}
+2020-10-22,California	{otitis_externa=11, sinusitis=1, abdominal_obesity=9, desquamation=2, angular_cheilitis=8}
+2020-10-23,California	{otitis_externa=11, desquamation=2, angular_cheilitis=9}
+2020-10-24,California	{otitis_externa=11, colitis=3, abdominal_obesity=9, desquamation=1, angular_cheilitis=7}
+2020-10-25,California	{otitis_externa=11, abdominal_obesity=10, angular_cheilitis=9, subdural_hematoma=1}
+2020-10-26,California	{otitis_externa=11, abdominal_obesity=8, iron_deficiency=1, desquamation=2, angular_cheilitis=10}
+2020-10-27,California	{otitis_externa=11, colitis=2, abdominal_obesity=6, desquamation=3, angular_cheilitis=10}
+2020-10-28,California	{alcoholism=8, colitis=4, abdominal_obesity=9, desquamation=1, angular_cheilitis=11}
+2020-10-29,California	{alcoholism=8, colitis=3, abdominal_obesity=9, desquamation=2, angular_cheilitis=11}
+2020-10-30,California	{otitis_externa=11, colitis=3, abdominal_obesity=7, desquamation=2, angular_cheilitis=10}
+2020-10-31,California	{otitis_externa=11, colitis=4, abdominal_obesity=9, desquamation=2, angular_cheilitis=5}
+2020-11-01,California	{colitis=1, abdominal_obesity=5, dentin_hypersensitivity=8, angular_cheilitis=11}
+2020-11-02,California	{abdominal_obesity=8, dentin_hypersensitivity=2, desquamation=1, angular_cheilitis=11}
+2020-11-03,California	{alcoholism=8, otitis_externa=11, abdominal_obesity=6, desquamation=5, angular_cheilitis=10}
+2020-11-04,California	{alcoholism=9, colitis=4, abdominal_obesity=8, desquamation=1, angular_cheilitis=11}
+2020-11-05,California	{alcoholism=8, colitis=3, abdominal_obesity=9, desquamation=2, angular_cheilitis=11}
+2020-11-06,California	{alcoholism=9, colitis=2, abdominal_obesity=8, desquamation=3, angular_cheilitis=11}
+2020-11-07,California	{otitis_externa=11, colitis=5, apnea=1, angular_cheilitis=9}
+2020-11-08,California	{alcoholism=8, colitis=5, abdominal_obesity=9, angular_cheilitis=11}
+2020-11-09,California	{otitis_externa=11, colitis=6, abdominal_obesity=7, desquamation=2, angular_cheilitis=9}
+2020-11-10,California	{alcoholism=10, otitis_externa=11, colitis=6, abdominal_obesity=7, angular_cheilitis=9}
+2020-11-11,California	{otitis_externa=11, abdominal_obesity=10, desquamation=2, angular_cheilitis=5}
+2020-11-12,California	{alcoholism=8, colitis=5, abdominal_obesity=9, angular_cheilitis=11}
+2020-11-13,California	{alcoholism=7, colitis=5, abdominal_obesity=8, desquamation=2, angular_cheilitis=11}
+2020-11-14,California	{otitis_externa=11, colitis=9, abdominal_obesity=8, angular_cheilitis=2, desquamation=5}
+2020-11-15,California	{alcoholism=8, otitis_externa=11, colitis=6, abdominal_obesity=9, angular_cheilitis=10}
+2020-11-16,California	{alcoholism=9, colitis=6, abdominal_obesity=5, desquamation=2, angular_cheilitis=11}
+2020-11-17,California	{alcoholism=7, abdominal_obesity=5, iron_deficiency=1, desquamation=2, angular_cheilitis=11}
+2020-11-18,California	{alcoholism=5, otitis_externa=11, colitis=9, abdominal_obesity=6, angular_cheilitis=10}
+2020-11-19,California	{alcoholism=6, otitis_externa=11, colitis=7, abdominal_obesity=8, angular_cheilitis=10}
+2020-11-20,California	{alcoholism=7, otitis_externa=11, colitis=9, abdominal_obesity=5, angular_cheilitis=10}
+2020-11-21,California	{otitis_externa=11, colitis=10, abdominal_obesity=9, desquamation=1, angular_cheilitis=4}
+2020-11-22,California	{alcoholism=8, otitis_externa=11, colitis=10, abdominal_obesity=9, angular_cheilitis=6}
+2020-11-23,California	{alcoholism=10, otitis_externa=11, indigestion=1, abdominal_obesity=7, angular_cheilitis=8}
+2020-11-24,California	{alcoholism=10, otitis_externa=11, abdominal_obesity=8, desquamation=3, angular_cheilitis=6}
+2020-11-25,California	{otitis_externa=11, abdominal_obesity=9, angular_cheilitis=4}
+2020-11-26,California	{alcoholism=10, otitis_externa=11, sinusitis=1, abdominal_obesity=9, angular_cheilitis=2}
+2020-11-27,California	{otitis_externa=11, colitis=10, sinusitis=1, abdominal_obesity=9, angular_cheilitis=2}
+2020-11-28,California	{otitis_externa=11, abdominal_obesity=10, angular_cheilitis=2}
+2020-11-29,California	{otitis_externa=11, abdominal_obesity=10, angular_cheilitis=1}
+2020-11-30,California	{alcoholism=7, otitis_externa=11, abdominal_obesity=8, angular_cheilitis=10}
+2020-12-01,California	{alcoholism=8, otitis_externa=11, colitis=10, abdominal_obesity=5, angular_cheilitis=9}
+2020-12-02,California	{otitis_externa=11, abdominal_obesity=7, desquamation=1, angular_cheilitis=9}
+2020-12-03,California	{alcoholism=5, otitis_externa=11, sinusitis=1, abdominal_obesity=6, angular_cheilitis=10}
+2020-12-04,California	{alcoholism=8, colitis=10, sinusitis=1, abdominal_obesity=3, angular_cheilitis=11}
+2020-12-05,California	{otitis_externa=11, colitis=10, sinusitis=1, abdominal_obesity=8, angular_cheilitis=2}
+2020-12-06,California	{alcoholism=7, otitis_externa=11, sinusitis=1, abdominal_obesity=6, angular_cheilitis=9}
+2020-12-07,California	{colitis=9, abdominal_obesity=2, angular_cheilitis=11}
+2020-12-08,California	{alcoholism=9, colitis=8, abdominal_obesity=3, desquamation=2, angular_cheilitis=11}
+2020-12-09,California	{otitis_externa=11, colitis=6, abdominal_obesity=5, desquamation=1, angular_cheilitis=10}
+2020-12-10,California	{alcoholism=9, colitis=8, abdominal_obesity=4, desquamation=1, angular_cheilitis=11}
+2020-12-11,California	{alcoholism=8, abdominal_obesity=3, apnea=1, desquamation=2, angular_cheilitis=11}
+2020-12-12,California	{alcoholism=10, otitis_externa=11, abdominal_obesity=9, angular_cheilitis=5}
+2020-12-13,California	{alcoholism=5, otitis_externa=11, colitis=6, abdominal_obesity=9, angular_cheilitis=10}
+2020-12-14,California	{alcoholism=6, abdominal_obesity=7, desquamation=2, angular_cheilitis=11}
+2020-12-15,California	{alcoholism=6, abdominal_obesity=9, desquamation=1, angular_cheilitis=11}
+2020-12-16,California	{alcoholism=9, otitis_externa=11, colitis=5, abdominal_obesity=8, angular_cheilitis=10}
+2020-12-17,California	{alcoholism=10, otitis_externa=11, colitis=5, abdominal_obesity=8, angular_cheilitis=9}
+2020-12-18,California	{alcoholism=9, otitis_externa=11, colitis=8, desquamation=1, angular_cheilitis=7}
+2020-12-19,California	{otitis_externa=11, abdominal_obesity=9, desquamation=1, angular_cheilitis=2}
+2020-12-20,California	{otitis_externa=11, autoimmune_disease=1, abdominal_obesity=10}
+2020-12-21,California	{otitis_externa=11, colitis=10, abdominal_obesity=9, angular_cheilitis=1}
+2020-12-22,California	{otitis_externa=11, abdominal_obesity=10, desquamation=1, angular_cheilitis=2}
+2020-12-23,California	{otitis_externa=11, colitis=10, abdominal_obesity=9, desquamation=1, angular_cheilitis=2}
+2020-12-24,California	{otitis_externa=11, abdominal_obesity=7, iron_deficiency=1, angular_cheilitis=3}
+2020-12-25,California	{otitis_externa=11, abdominal_obesity=9, angular_cheilitis=1}
+2020-12-26,California	{otitis_externa=11, abdominal_obesity=10, angular_cheilitis=1}
+2020-12-27,California	{otitis_externa=11, colitis=9, abdominal_obesity=10, angular_cheilitis=3}
+2020-12-28,California	{otitis_externa=11, colitis=8, abdominal_obesity=10, desquamation=1, angular_cheilitis=2}
+2020-12-29,California	{otitis_externa=11, colitis=10, abdominal_obesity=9, angular_cheilitis=3}
+2020-12-30,California	{otitis_externa=11, abdominal_obesity=9, angular_cheilitis=1}
+2020-12-31,California	{otitis_externa=11, abdominal_obesity=9, angular_cheilitis=1}
+2021-01-01,California	{alcoholism=10, otitis_externa=11, abdominal_obesity=9, adrenal_crisis=1, angular_cheilitis=2}
+2021-01-02,California	{otitis_externa=11, colitis=9, location_key=1, abdominal_obesity=10}
+2021-01-03,California	{otitis_externa=11, colitis=8, abdominal_obesity=10, adrenal_crisis=1, angular_cheilitis=7}
+2021-01-04,California	{otitis_externa=11, colitis=6, abdominal_obesity=9, desquamation=2, angular_cheilitis=8}
+2021-01-05,California	{alcoholism=5, otitis_externa=11, abdominal_obesity=7, desquamation=1, angular_cheilitis=6}
+2021-01-06,California	{otitis_externa=11, colitis=7, abdominal_obesity=9, desquamation=1, angular_cheilitis=8}
+2021-01-07,California	{otitis_externa=11, colitis=5, abdominal_obesity=9, desquamation=2, angular_cheilitis=7}
+2021-01-08,California	{otitis_externa=11, colitis=5, abdominal_obesity=9, desquamation=3, angular_cheilitis=7}
+2021-01-09,California	{otitis_externa=11, abdominal_obesity=10, angular_cheilitis=1}
+2021-01-10,California	{otitis_externa=11, colitis=4, abdominal_obesity=10, desquamation=1, angular_cheilitis=7}
+2021-01-11,California	{alcoholism=8, otitis_externa=11, colitis=4, autoimmune_disease=1, angular_cheilitis=10}
+2021-01-12,California	{alcoholism=9, colitis=3, abdominal_obesity=10, angular_cheilitis=11}
+2021-01-13,California	{alcoholism=10, otitis_externa=11, abdominal_obesity=9, desquamation=4, angular_cheilitis=7}
+2021-01-14,California	{otitis_externa=11, colitis=1, abdominal_obesity=8, desquamation=3, angular_cheilitis=10}
+2021-01-15,California	{otitis_externa=11, abdominal_obesity=10, desquamation=3, angular_cheilitis=7}
+2021-01-16,California	{otitis_externa=11, colitis=5, abdominal_obesity=10, angular_cheilitis=2, desquamation=4}
+2021-01-17,California	{otitis_externa=11, colitis=2, abdominal_obesity=10, desquamation=3, angular_cheilitis=5}
+2021-01-18,California	{otitis_externa=11, desquamation=2, angular_cheilitis=9}
+2021-01-19,California	{abdominal_obesity=9, desquamation=2, angular_cheilitis=11}
+2021-01-20,California	{otitis_externa=11, desquamation=1, angular_cheilitis=10}
+2021-01-21,California	{otitis_externa=11, desquamation=1, angular_cheilitis=10}
+2021-01-22,California	{otitis_externa=11, colitis=3, abdominal_obesity=10, angular_cheilitis=4, desquamation=5}
+2021-01-23,California	{otitis_externa=11, colitis=1, abdominal_obesity=10, angular_cheilitis=5, desquamation=6}
+2021-01-24,California	{otitis_externa=11, colitis=1, abdominal_obesity=10, desquamation=3, angular_cheilitis=9}
+2021-01-25,California	{otitis_externa=11, colitis=1, abdominal_obesity=10, desquamation=5, angular_cheilitis=6}
+2021-01-26,California	{otitis_externa=11, colitis=1, abdominal_obesity=9, desquamation=6, angular_cheilitis=8}
+2021-01-27,California	{alcoholism=8, otitis_externa=11, desquamation=5, angular_cheilitis=10}
+2021-01-28,California	{alcoholism=9, otitis_externa=11, hyperpigmentation=1, desquamation=3, angular_cheilitis=10}
+2021-01-29,California	{otitis_externa=11, hyperpigmentation=1, abdominal_obesity=9, desquamation=4, angular_cheilitis=10}
+2021-01-30,California	{otitis_externa=11, colitis=2, abdominal_obesity=10, desquamation=3, angular_cheilitis=6}
+2021-01-31,California	{otitis_externa=11, desquamation=1, angular_cheilitis=10}
+2021-02-01,California	{otitis_externa=11, hyperpigmentation=2, desquamation=4, angular_cheilitis=9}
+2021-02-02,California	{otitis_externa=11, abdominal_obesity=8, angular_cheilitis=9}
+2021-02-03,California	{otitis_externa=11, sinusitis=1, abdominal_obesity=7, desquamation=8, angular_cheilitis=10}
+2021-02-04,California	{otitis_externa=11, hyperpigmentation=1, abdominal_obesity=8, desquamation=7, angular_cheilitis=9}
+2021-02-05,California	{alcoholism=10, otitis_externa=11, abdominal_obesity=9, desquamation=5, angular_cheilitis=8}
+2021-02-06,California	{otitis_externa=10, hyperpigmentation=1, abdominal_obesity=8, angular_cheilitis=5, desquamation=6}
+2021-02-07,California	{otitis_externa=10, abdominal_obesity=8, angular_cheilitis=1}
+2021-02-08,California	{alcoholism=9, otitis_externa=10, abdominal_obesity=7, desquamation=4, angular_cheilitis=8}
+2021-02-09,California	{alcoholism=9, autoimmune_disease=1, abdominal_obesity=6, desquamation=4, angular_cheilitis=10}
+2021-02-10,California	{otitis_externa=10, abdominal_obesity=7, angular_cheilitis=8}
+2021-02-11,California	{alcoholism=7, otitis_externa=10, colitis=1, abdominal_obesity=4, angular_cheilitis=9}
+2021-02-12,California	{alcoholism=8, otitis_externa=10, abdominal_obesity=5, angular_cheilitis=7, desquamation=9}
+2021-02-13,California	{otitis_externa=10, abdominal_obesity=9, iron_deficiency=1, angular_cheilitis=4, desquamation=6}
+2021-02-14,California	{otitis_externa=10, abdominal_obesity=9, angular_cheilitis=5, desquamation=6}
+2021-02-15,California	{otitis_externa=10, colitis=1, abdominal_obesity=9, desquamation=5, angular_cheilitis=7}
+2021-02-16,California	{otitis_externa=10, abdominal_obesity=7, angular_cheilitis=9}
+2021-02-17,California	{otitis_externa=10, colitis=1, desquamation=5, angular_cheilitis=7}
+2021-02-18,California	{alcoholism=8, otitis_externa=10, abdominal_obesity=6, desquamation=7, angular_cheilitis=9}
+2021-02-19,California	{alcoholism=9, otitis_externa=10, abdominal_obesity=8, desquamation=6, angular_cheilitis=7}
+2021-02-20,California	{alcoholism=8, otitis_externa=10, abdominal_obesity=9, desquamation=6, angular_cheilitis=7}
+2021-02-21,California	{alcoholism=8, otitis_externa=10, abdominal_obesity=9, desquamation=4, angular_cheilitis=7}
+2021-02-22,California	{otitis_externa=10, desquamation=4, angular_cheilitis=8}
+2021-02-23,California	{otitis_externa=10, abdominal_obesity=8, desquamation=3, angular_cheilitis=9}
+2021-02-24,California	{otitis_externa=10, nosebleed=1, desquamation=3, angular_cheilitis=8}
+2021-02-25,California	{otitis_externa=10, hyperpigmentation=1, abdominal_obesity=6, desquamation=5, angular_cheilitis=8}
+2021-02-26,California	{otitis_externa=10, abdominal_obesity=9, angular_cheilitis=5, desquamation=6}
+2021-02-27,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=8, angular_cheilitis=4, desquamation=5}
+2021-02-28,California	{otitis_externa=10, iron_deficiency=1, desquamation=2, angular_cheilitis=8}
+2021-03-01,California	{alcoholism=9, otitis_externa=10, abdominal_obesity=7, desquamation=4, angular_cheilitis=8}
+2021-03-02,California	{alcoholism=9, otitis_externa=10, abdominal_obesity=6, desquamation=5, angular_cheilitis=8}
+2021-03-03,California	{otitis_externa=10, hyperpigmentation=1, abdominal_obesity=8, desquamation=5, angular_cheilitis=6}
+2021-03-04,California	{otitis_externa=10, abdominal_obesity=7, dentin_hypersensitivity=3, desquamation=1, angular_cheilitis=9}
+2021-03-05,California	{otitis_externa=10, autoimmune_disease=1, abdominal_obesity=9, desquamation=2, angular_cheilitis=8}
+2021-03-06,California	{otitis_externa=10, abdominal_obesity=9, desquamation=3, angular_cheilitis=8}
+2021-03-07,California	{otitis_externa=10, desquamation=1, angular_cheilitis=9}
+2021-03-08,California	{abdominal_obesity=6, desquamation=4, angular_cheilitis=10}
+2021-03-09,California	{otitis_externa=10, abdominal_obesity=6, angular_cheilitis=9}
+2021-03-10,California	{alcoholism=7, otitis_externa=10, sinusitis=1, abdominal_obesity=6, angular_cheilitis=9}
+2021-03-11,California	{otitis_externa=10, nosebleed=1, abdominal_obesity=5, desquamation=6, angular_cheilitis=8}
+2021-03-12,California	{otitis_externa=10, hyperpigmentation=1, nosebleed=2, abdominal_obesity=6, angular_cheilitis=5}
+2021-03-13,California	{otitis_externa=10, abdominal_obesity=9, iron_deficiency=1, angular_cheilitis=5}
+2021-03-14,California	{otitis_externa=10, abdominal_obesity=9, angular_cheilitis=4, desquamation=5, ataxia=1}
+2021-03-15,California	{alcoholism=9, otitis_externa=10, abdominal_obesity=5, desquamation=3, angular_cheilitis=8}
+2021-03-16,California	{otitis_externa=10, colitis=1, desquamation=4, angular_cheilitis=5}
+2021-03-17,California	{alcoholism=9, abdominal_obesity=3, desquamation=4, angular_cheilitis=10}
+2021-03-18,California	{alcoholism=8, abdominal_obesity=4, angular_cheilitis=10}
+2021-03-19,California	{alcoholism=8, abdominal_obesity=5, low_grade_fever=1, desquamation=4, angular_cheilitis=10}
+2021-03-20,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=9, desquamation=4, angular_cheilitis=5}
+2021-03-21,California	{abdominal_obesity=9, desquamation=1, angular_cheilitis=10}
+2021-03-22,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=7, desquamation=2, angular_cheilitis=8}
+2021-03-23,California	{otitis_externa=10, hyperpigmentation=1, abdominal_obesity=7, desquamation=2, angular_cheilitis=8}
+2021-03-24,California	{otitis_externa=10, nosebleed=2, abdominal_obesity=5, desquamation=3, angular_cheilitis=9}
+2021-03-25,California	{otitis_externa=10, hyperpigmentation=1, abdominal_obesity=7, desquamation=2, angular_cheilitis=9}
+2021-03-26,California	{otitis_externa=10, abdominal_obesity=7, desquamation=4, angular_cheilitis=9}
+2021-03-27,California	{alcoholism=9, otitis_externa=10, abdominal_obesity=8, desquamation=3, angular_cheilitis=7}
+2021-03-28,California	{abdominal_obesity=9, angular_cheilitis=10, subdural_hematoma=1}
+2021-03-29,California	{abdominal_obesity=9, dentin_hypersensitivity=1, angular_cheilitis=10}
+2021-03-30,California	{abdominal_obesity=8, desquamation=2, angular_cheilitis=10}
+2021-03-31,California	{abdominal_obesity=6, desquamation=2, angular_cheilitis=10, subdural_hematoma=1}
+2021-04-01,California	{abdominal_obesity=6, desquamation=4, angular_cheilitis=10}
+2021-04-02,California	{abdominal_obesity=6, desquamation=2, angular_cheilitis=10}
+2021-04-03,California	{otitis_externa=10, sinusitis=2, iron_deficiency=4, angular_cheilitis=6}
+2021-04-04,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=6, iron_deficiency=4, angular_cheilitis=7}
+2021-04-05,California	{otitis_externa=10, abdominal_obesity=7, adrenal_crisis=1, angular_cheilitis=9}
+2021-04-06,California	{otitis_externa=10, sinusitis=2, abdominal_obesity=8, iron_deficiency=1, angular_cheilitis=7}
+2021-04-07,California	{alcoholism=9, otitis_externa=10, sinusitis=2, iron_deficiency=1, angular_cheilitis=8}
+2021-04-08,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=8, angular_cheilitis=3, desquamation=6}
+2021-04-09,California	{otitis_externa=10, sinusitis=2, abdominal_obesity=8, angular_cheilitis=4, desquamation=5}
+2021-04-10,California	{otitis_externa=10, sinusitis=2, abdominal_obesity=8, desquamation=3, angular_cheilitis=4}
+2021-04-11,California	{otitis_externa=10, desquamation=2, angular_cheilitis=8, subdural_hematoma=1}
+2021-04-12,California	{otitis_externa=10, sinusitis=1, desquamation=4, angular_cheilitis=7}
+2021-04-13,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=7, angular_cheilitis=6}
+2021-04-14,California	{otitis_externa=10, abdominal_obesity=8, iron_deficiency=1, desquamation=4, angular_cheilitis=6}
+2021-04-15,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=8, angular_cheilitis=5}
+2021-04-16,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=7, desquamation=4, angular_cheilitis=6}
+2021-04-17,California	{otitis_externa=10, abdominal_obesity=9, iron_deficiency=2, angular_cheilitis=4, desquamation=5}
+2021-04-18,California	{otitis_externa=10, sinusitis=2, abdominal_obesity=8, iron_deficiency=3, angular_cheilitis=5}
+2021-04-19,California	{otitis_externa=10, iron_deficiency=1, desquamation=4, angular_cheilitis=7}
+2021-04-20,California	{otitis_externa=10, abdominal_obesity=4, iron_deficiency=1, desquamation=6, angular_cheilitis=9}
+2021-04-21,California	{abdominal_obesity=7, desquamation=3, angular_cheilitis=10}
+2021-04-22,California	{hyperpigmentation=1, abdominal_obesity=5, desquamation=4, angular_cheilitis=10}
+2021-04-23,California	{alcoholism=9, otitis_externa=10, abdominal_obesity=6, desquamation=3, angular_cheilitis=8}
+2021-04-24,California	{otitis_externa=10, iron_deficiency=2, desquamation=1, angular_cheilitis=8}
+2021-04-25,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=9, desquamation=3, angular_cheilitis=8}
+2021-04-26,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=6, desquamation=4, angular_cheilitis=9}
+2021-04-27,California	{otitis_externa=10, hyperpigmentation=2, angular_cheilitis=6}
+2021-04-28,California	{otitis_externa=10, abdominal_obesity=6, desquamation=5, angular_cheilitis=9}
+2021-04-29,California	{otitis_externa=10, sinusitis=1, desquamation=5, angular_cheilitis=7}
+2021-04-30,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=6, angular_cheilitis=5, desquamation=7}
+2021-05-01,California	{otitis_externa=10, sinusitis=3, abdominal_obesity=7, iron_deficiency=2, angular_cheilitis=4}
+2021-05-02,California	{otitis_externa=10, abdominal_obesity=5, angular_cheilitis=7, subdural_hematoma=1}
+2021-05-03,California	{otitis_externa=10, abdominal_obesity=3, iron_deficiency=1, desquamation=6, angular_cheilitis=9}
+2021-05-04,California	{otitis_externa=10, abdominal_obesity=3, iron_deficiency=2, angular_cheilitis=6, desquamation=7}
+2021-05-05,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=4, desquamation=6, angular_cheilitis=8}
+2021-05-06,California	{otitis_externa=10, abdominal_obesity=1, iron_deficiency=2, desquamation=7, angular_cheilitis=9}
+2021-05-07,California	{otitis_externa=10, abdominal_obesity=5, desquamation=6, angular_cheilitis=7, subdural_hematoma=1}
+2021-05-08,California	{arthritis=8, otitis_externa=10, abdominal_obesity=4, angular_cheilitis=1, desquamation=3}
+2021-05-09,California	{arthritis=9, otitis_externa=10, sinusitis=2, abdominal_obesity=7, angular_cheilitis=1}
+2021-05-10,California	{arthritis=5, otitis_externa=10, abdominal_obesity=2, angular_cheilitis=7}
+2021-05-11,California	{otitis_externa=10, abdominal_obesity=4, iron_deficiency=2, desquamation=5, angular_cheilitis=8}
+2021-05-12,California	{otitis_externa=10, abdominal_obesity=4, desquamation=7, angular_cheilitis=9}
+2021-05-13,California	{otitis_externa=10, desquamation=8, angular_cheilitis=9, subdural_hematoma=1}
+2021-05-14,California	{abdominal_obesity=2, iron_deficiency=1, desquamation=7, angular_cheilitis=10}
+2021-05-15,California	{sinusitis=1, abdominal_obesity=7, angular_cheilitis=10}
+2021-05-16,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=8, iron_deficiency=2, angular_cheilitis=9}
+2021-05-17,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=7, iron_deficiency=3, angular_cheilitis=9}
+2021-05-18,California	{otitis_externa=10, hyperpigmentation=1, abdominal_obesity=8, desquamation=2, angular_cheilitis=9}
+2021-05-19,California	{otitis_externa=10, abdominal_obesity=6, iron_deficiency=1, desquamation=4, angular_cheilitis=9}
+2021-05-20,California	{alcoholism=9, otitis_externa=10, sinusitis=1, abdominal_obesity=6, angular_cheilitis=8}
+2021-05-21,California	{otitis_externa=10, abdominal_obesity=6, adrenal_crisis=2, desquamation=4, angular_cheilitis=7}
+2021-05-22,California	{otitis_externa=10, abdominal_obesity=8, iron_deficiency=2, desquamation=3, angular_cheilitis=6}
+2021-05-23,California	{otitis_externa=10, colitis=1, abdominal_obesity=7, iron_deficiency=3, angular_cheilitis=9}
+2021-05-24,California	{otitis_externa=10, sinusitis=1, iron_deficiency=3, desquamation=4, angular_cheilitis=6}
+2021-05-25,California	{otitis_externa=10, sinusitis=2, abdominal_obesity=5, desquamation=4, angular_cheilitis=8}
+2021-05-26,California	{otitis_externa=10, abdominal_obesity=6, desquamation=3, angular_cheilitis=7, subdural_hematoma=1}
+2021-05-27,California	{otitis_externa=10, colitis=1, abdominal_obesity=4, desquamation=6, angular_cheilitis=8}
+2021-05-28,California	{otitis_externa=10, abdominal_obesity=5, iron_deficiency=2, angular_cheilitis=4, desquamation=6}
+2021-05-29,California	{otitis_externa=10, sinusitis=2, abdominal_obesity=7, angular_cheilitis=5, subdural_hematoma=1}
+2021-05-30,California	{otitis_externa=10, sinusitis=3, abdominal_obesity=6, iron_deficiency=4, angular_cheilitis=5}
+2021-05-31,California	{otitis_externa=10, sinusitis=2, abdominal_obesity=4, angular_cheilitis=6}
+2021-06-01,California	{otitis_externa=10, abdominal_obesity=5, desquamation=1, angular_cheilitis=8}
+2021-06-02,California	{otitis_externa=10, abdominal_obesity=7, iron_deficiency=2, desquamation=3, angular_cheilitis=6}
+2021-06-03,California	{otitis_externa=10, abdominal_obesity=5, iron_deficiency=2, angular_cheilitis=6, desquamation=7}
+2021-06-04,California	{otitis_externa=10, iron_deficiency=1, angular_cheilitis=6, desquamation=7}
+2021-06-05,California	{alcoholism=9, otitis_externa=10, abdominal_obesity=5, angular_cheilitis=4, subdural_hematoma=1}
+2021-06-06,California	{otitis_externa=10, abdominal_obesity=4, iron_deficiency=8, desquamation=2, angular_cheilitis=3}
+2021-06-07,California	{otitis_externa=10, abdominal_obesity=7, iron_deficiency=2, desquamation=4, angular_cheilitis=6}
+2021-06-08,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=4, angular_cheilitis=5, desquamation=8}
+2021-06-09,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=5, angular_cheilitis=4, desquamation=9}
+2021-06-10,California	{otitis_externa=10, abdominal_obesity=6, adrenal_crisis=1, angular_cheilitis=4}
+2021-06-11,California	{otitis_externa=10, abdominal_obesity=6, iron_deficiency=3, angular_cheilitis=4, desquamation=5}
+2021-06-12,California	{otitis_externa=10, sinusitis=3, abdominal_obesity=4, iron_deficiency=5, desquamation=6}
+2021-06-13,California	{otitis_externa=10, sinusitis=2, abdominal_obesity=5, iron_deficiency=9, angular_cheilitis=3}
+2021-06-14,California	{otitis_externa=10, abdominal_obesity=5, iron_deficiency=3, angular_cheilitis=4, desquamation=7}
+2021-06-15,California	{otitis_externa=10, abdominal_obesity=5, iron_deficiency=4, angular_cheilitis=2, desquamation=8}
+2021-06-16,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=4, angular_cheilitis=5, desquamation=6}
+2021-06-17,California	{otitis_externa=10, sinusitis=2, abdominal_obesity=5, iron_deficiency=4, desquamation=7}
+2021-06-18,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=5, angular_cheilitis=2, desquamation=6}
+2021-06-19,California	{otitis_externa=10, sinusitis=4, abdominal_obesity=5, iron_deficiency=9, desquamation=2}
+2021-06-20,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=5, angular_cheilitis=3}
+2021-06-21,California	{otitis_externa=10, sinusitis=2, abdominal_obesity=5, iron_deficiency=7, angular_cheilitis=3}
+2021-06-22,California	{otitis_externa=10, abdominal_obesity=6, iron_deficiency=5, angular_cheilitis=3}
+2021-06-23,California	{otitis_externa=10, abdominal_obesity=7, iron_deficiency=3, angular_cheilitis=4, desquamation=5}
+2021-06-24,California	{alcoholism=9, otitis_externa=10, abdominal_obesity=7, angular_cheilitis=4, desquamation=6}
+2021-06-25,California	{otitis_externa=10, abdominal_obesity=8, iron_deficiency=3, angular_cheilitis=1, desquamation=7}
+2021-06-26,California	{otitis_externa=10, sinusitis=4, abdominal_obesity=6, iron_deficiency=8, desquamation=2}
+2021-06-27,California	{otitis_externa=10, sinusitis=4, abdominal_obesity=6, iron_deficiency=9, desquamation=1}
+2021-06-28,California	{otitis_externa=10, abdominal_obesity=6, iron_deficiency=5, angular_cheilitis=3, desquamation=4}
+2021-06-29,California	{otitis_externa=10, abdominal_obesity=4, iron_deficiency=5, angular_cheilitis=2, desquamation=7}
+2021-06-30,California	{otitis_externa=10, abdominal_obesity=5, angular_cheilitis=3, desquamation=9}
+2021-07-01,California	{alcoholism=9, otitis_externa=10, abdominal_obesity=7, iron_deficiency=4, desquamation=6}
+2021-07-02,California	{alcoholism=9, otitis_externa=10, abdominal_obesity=7, angular_cheilitis=1, desquamation=5}
+2021-07-03,California	{otitis_externa=10, sinusitis=3, abdominal_obesity=5, iron_deficiency=9, subdural_hematoma=1}
+2021-07-04,California	{otitis_externa=10, diabetes=1, abdominal_obesity=3, angular_cheilitis=5}
+2021-07-05,California	{otitis_externa=10, abdominal_obesity=5, iron_deficiency=9, desquamation=2, angular_cheilitis=3}
+2021-07-06,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=6, iron_deficiency=3, angular_cheilitis=4}
+2021-07-07,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=6, angular_cheilitis=2, desquamation=5}
+2021-07-08,California	{otitis_externa=10, sinusitis=1, angular_cheilitis=4, desquamation=6}
+2021-07-09,California	{otitis_externa=10, abdominal_obesity=5, iron_deficiency=6, angular_cheilitis=2, desquamation=3}
+2021-07-10,California	{otitis_externa=10, colitis=2, abdominal_obesity=7, iron_deficiency=9, angular_cheilitis=1}
+2021-07-11,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=6, iron_deficiency=9, angular_cheilitis=2}
+2021-07-12,California	{otitis_externa=10, colitis=1, abdominal_obesity=6, angular_cheilitis=3, desquamation=5}
+2021-07-13,California	{otitis_externa=10, abdominal_obesity=5, desquamation=3, angular_cheilitis=6}
+2021-07-14,California	{otitis_externa=10, abdominal_obesity=6, iron_deficiency=3, angular_cheilitis=4, desquamation=5}
+2021-07-15,California	{otitis_externa=10, colitis=4, abdominal_obesity=7, angular_cheilitis=3, desquamation=5}
+2021-07-16,California	{otitis_externa=10, abdominal_obesity=7, iron_deficiency=3, angular_cheilitis=2, desquamation=6}
+2021-07-17,California	{alcoholism=9, otitis_externa=10, colitis=4, abdominal_obesity=6, iron_deficiency=5}
+2021-07-18,California	{otitis_externa=10, colitis=3, sinusitis=1, abdominal_obesity=7, angular_cheilitis=2}
+2021-07-19,California	{otitis_externa=10, abdominal_obesity=4, angular_cheilitis=2, desquamation=5}
+2021-07-20,California	{otitis_externa=10, colitis=5, abdominal_obesity=6, iron_deficiency=3, desquamation=4}
+2021-07-21,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=6, angular_cheilitis=2, desquamation=5}
+2021-07-22,California	{otitis_externa=10, colitis=7, sinusitis=1, abdominal_obesity=5, angular_cheilitis=3}
+2021-07-23,California	{otitis_externa=10, colitis=8, abdominal_obesity=4, iron_deficiency=2, angular_cheilitis=3}
+2021-07-24,California	{otitis_externa=10, colitis=9, sinusitis=1, abdominal_obesity=4, iron_deficiency=5}
+2021-07-25,California	{otitis_externa=10, colitis=9, sinusitis=1, abdominal_obesity=4, angular_cheilitis=2}
+2021-07-26,California	{otitis_externa=10, colitis=7, abdominal_obesity=3, desquamation=2, angular_cheilitis=5}
+2021-07-27,California	{otitis_externa=10, colitis=7, abdominal_obesity=6, desquamation=2, angular_cheilitis=4}
+2021-07-28,California	{otitis_externa=10, hyperpigmentation=1, colitis=6, abdominal_obesity=5, angular_cheilitis=3}
+2021-07-29,California	{otitis_externa=10, colitis=6, abdominal_obesity=5, angular_cheilitis=2, desquamation=4}
+2021-07-30,California	{otitis_externa=10, colitis=7, abdominal_obesity=5, angular_cheilitis=2, desquamation=3}
+2021-07-31,California	{otitis_externa=10, colitis=9, abdominal_obesity=5, iron_deficiency=4, angular_cheilitis=1}
+2021-08-01,California	{otitis_externa=10, colitis=8, abdominal_obesity=6, iron_deficiency=4, angular_cheilitis=2}
+2021-08-02,California	{otitis_externa=10, colitis=8, sinusitis=1, abdominal_obesity=4, angular_cheilitis=3}
+2021-08-03,California	{otitis_externa=10, colitis=8, abdominal_obesity=7, iron_deficiency=2, angular_cheilitis=3}
+2021-08-04,California	{alcoholism=9, otitis_externa=10, abdominal_obesity=6, iron_deficiency=2, angular_cheilitis=3}
+2021-08-05,California	{otitis_externa=10, indigestion=1, abdominal_obesity=8, desquamation=2}
+2021-08-06,California	{otitis_externa=10, abdominal_obesity=7, angular_cheilitis=1, desquamation=2}
+2021-08-07,California	{otitis_externa=10, colitis=8, abdominal_obesity=6, iron_deficiency=4, angular_cheilitis=1}
+2021-08-08,California	{alcoholism=9, otitis_externa=10, colitis=6, abdominal_obesity=8, desquamation=1}
+2021-08-09,California	{otitis_externa=10, colitis=6, abdominal_obesity=7, desquamation=2, angular_cheilitis=4}
+2021-08-10,California	{otitis_externa=10, abdominal_obesity=6, iron_deficiency=1, desquamation=2, angular_cheilitis=5}
+2021-08-11,California	{otitis_externa=10, colitis=7, iron_deficiency=1, angular_cheilitis=3, desquamation=6}
+2021-08-12,California	{otitis_externa=10, colitis=8, abdominal_obesity=3, iron_deficiency=1, angular_cheilitis=4}
+2021-08-13,California	{otitis_externa=10, colitis=8, angular_cheilitis=3, desquamation=6}
+2021-08-14,California	{otitis_externa=10, abdominal_obesity=9, angular_cheilitis=1}
+2021-08-15,California	{otitis_externa=10, colitis=5, abdominal_obesity=8, iron_deficiency=4, angular_cheilitis=3}
+2021-08-16,California	{alcoholism=9, otitis_externa=10, abdominal_obesity=3, desquamation=4, angular_cheilitis=6}
+2021-08-17,California	{alcoholism=9, otitis_externa=10, colitis=4, angular_cheilitis=5, desquamation=6}
+2021-08-18,California	{alcoholism=9, otitis_externa=10, colitis=7, abdominal_obesity=4, desquamation=5}
+2021-08-19,California	{alcoholism=9, otitis_externa=10, colitis=4, desquamation=6, angular_cheilitis=8}
+2021-08-20,California	{otitis_externa=10, colitis=7, indigestion=2, abdominal_obesity=3, angular_cheilitis=5}
+2021-08-21,California	{otitis_externa=10, colitis=8, sinusitis=1, iron_deficiency=2, angular_cheilitis=4}
+2021-08-22,California	{otitis_externa=10, colitis=7, iron_deficiency=1, angular_cheilitis=6}
+2021-08-23,California	{alcoholism=9, otitis_externa=10, colitis=8, angular_cheilitis=5, desquamation=7}
+2021-08-24,California	{otitis_externa=10, abdominal_obesity=1, desquamation=5, angular_cheilitis=7}
+2021-08-25,California	{otitis_externa=10, colitis=7, abdominal_obesity=1, desquamation=5, angular_cheilitis=6}
+2021-08-26,California	{otitis_externa=10, abdominal_obesity=2, angular_cheilitis=4, desquamation=7}
+2021-08-27,California	{otitis_externa=10, colitis=7, abdominal_obesity=2, iron_deficiency=1, angular_cheilitis=5}
+2021-08-28,California	{otitis_externa=10, colitis=9, indigestion=1, abdominal_obesity=4, iron_deficiency=6}
+2021-08-29,California	{otitis_externa=10, colitis=7, abdominal_obesity=4, iron_deficiency=6, angular_cheilitis=2}
+2021-08-30,California	{otitis_externa=10, colitis=7, abdominal_obesity=2, desquamation=4, angular_cheilitis=5}
+2021-08-31,California	{otitis_externa=10, colitis=8, angular_cheilitis=5, desquamation=7}
+2021-09-01,California	{otitis_externa=10, colitis=8, abdominal_obesity=2, desquamation=4, angular_cheilitis=6}
+2021-09-02,California	{otitis_externa=10, angular_cheilitis=4, desquamation=6}
+2021-09-03,California	{otitis_externa=10, angular_cheilitis=4, desquamation=6}
+2021-09-04,California	{otitis_externa=10, abdominal_obesity=6, iron_deficiency=1, angular_cheilitis=2}
+2021-09-05,California	{otitis_externa=10, colitis=9, abdominal_obesity=3, iron_deficiency=4, angular_cheilitis=2}
+2021-09-06,California	{otitis_externa=10, colitis=8, abdominal_obesity=5, angular_cheilitis=1}
+2021-09-07,California	{otitis_externa=10, colitis=9, abdominal_obesity=1, angular_cheilitis=5}
+2021-09-08,California	{otitis_externa=10, colitis=7, abdominal_obesity=1, angular_cheilitis=6}
+2021-09-09,California	{otitis_externa=10, colitis=8, abdominal_obesity=1, angular_cheilitis=5, desquamation=6}
+2021-09-10,California	{otitis_externa=10, colitis=7, iron_deficiency=1, angular_cheilitis=6}
+2021-09-11,California	{otitis_externa=10, colitis=8, sinusitis=1, abdominal_obesity=4, angular_cheilitis=3}
+2021-09-12,California	{otitis_externa=10, colitis=8, iron_deficiency=2, angular_cheilitis=5}
+2021-09-13,California	{otitis_externa=10, colitis=8, abdominal_obesity=1, desquamation=5, angular_cheilitis=6}
+2021-09-14,California	{otitis_externa=10, colitis=6, angular_cheilitis=2, desquamation=3, adrenal_crisis=8}
+2021-09-15,California	{otitis_externa=10, colitis=8, abdominal_obesity=2, angular_cheilitis=4, desquamation=6}
+2021-09-16,California	{otitis_externa=10, colitis=8, abdominal_obesity=1, angular_cheilitis=5}
+2021-09-17,California	{alcoholism=9, otitis_externa=10, colitis=8, sinusitis=1, angular_cheilitis=6}
+2021-09-18,California	{otitis_externa=10, abdominal_obesity=6, angular_cheilitis=2}
+2021-09-19,California	{otitis_externa=10, abdominal_obesity=7, iron_deficiency=1, angular_cheilitis=5}
+2021-09-20,California	{otitis_externa=10, colitis=8, sinusitis=1, desquamation=5, angular_cheilitis=6}
+2021-09-21,California	{otitis_externa=10, colitis=6, abdominal_obesity=1, desquamation=5, angular_cheilitis=8}
+2021-09-22,California	{otitis_externa=10, colitis=7, desquamation=5, angular_cheilitis=8}
+2021-09-23,California	{otitis_externa=10, colitis=7, desquamation=5, angular_cheilitis=8}
+2021-09-24,California	{otitis_externa=10, colitis=9, desquamation=5, angular_cheilitis=6}
+2021-09-25,California	{otitis_externa=10, desquamation=1, angular_cheilitis=4}
+2021-09-26,California	{alcoholism=9, otitis_externa=10, abdominal_obesity=3, desquamation=1, angular_cheilitis=6}
+2021-09-27,California	{alcoholism=9, otitis_externa=10, desquamation=5, angular_cheilitis=7}
+2021-09-28,California	{otitis_externa=10, colitis=8, abdominal_obesity=1, angular_cheilitis=3, desquamation=7}
+2021-09-29,California	{alcoholism=9, otitis_externa=10, colitis=8, angular_cheilitis=5, desquamation=6}
+2021-09-30,California	{otitis_externa=10, abdominal_obesity=1, angular_cheilitis=4, desquamation=7}
+2021-10-01,California	{alcoholism=9, otitis_externa=10, abdominal_obesity=1, angular_cheilitis=4, desquamation=6}
+2021-10-02,California	{otitis_externa=10, abdominal_obesity=6, desquamation=1, angular_cheilitis=2}
+2021-10-03,California	{otitis_externa=10, abdominal_obesity=2, iron_deficiency=1, desquamation=3, angular_cheilitis=4}
+2021-10-04,California	{alcoholism=9, otitis_externa=10, colitis=8, desquamation=5, angular_cheilitis=7}
+2021-10-05,California	{otitis_externa=10, colitis=9, desquamation=5, angular_cheilitis=6}
+2021-10-06,California	{alcoholism=9, otitis_externa=10, hyperpigmentation=2, desquamation=4, angular_cheilitis=5}
+2021-10-07,California	{alcoholism=9, otitis_externa=10, colitis=8, autoimmune_disease=1, angular_cheilitis=6}
+2021-10-08,California	{otitis_externa=10, colitis=9, angular_cheilitis=5, desquamation=6}
+2021-10-09,California	{otitis_externa=10, abdominal_obesity=6, iron_deficiency=1, angular_cheilitis=3}
+2021-10-10,California	{otitis_externa=10, colitis=9, angular_cheilitis=4, subdural_hematoma=1}
+2021-10-11,California	{otitis_externa=10, colitis=9, desquamation=4, angular_cheilitis=7}
+2021-10-12,California	{otitis_externa=10, desquamation=3, angular_cheilitis=7}
+2021-10-13,California	{otitis_externa=10, hyperpigmentation=1, angular_cheilitis=3, desquamation=6}
+2021-10-14,California	{otitis_externa=10, colitis=9, desquamation=5, angular_cheilitis=6}
+2021-10-15,California	{otitis_externa=10, angular_cheilitis=4, desquamation=5, granuloma=1}
+2021-10-16,California	{otitis_externa=10, abdominal_obesity=2, angular_cheilitis=4}
+2021-10-17,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=3, angular_cheilitis=5}
+2021-10-18,California	{otitis_externa=10, colitis=9, sinusitis=1, desquamation=3, angular_cheilitis=7}
+2021-10-19,California	{alcoholism=9, otitis_externa=10, hyperpigmentation=3, angular_cheilitis=4}
+2021-10-20,California	{alcoholism=8, otitis_externa=10, nosebleed=1, angular_cheilitis=5, desquamation=6}
+2021-10-21,California	{alcoholism=8, otitis_externa=10, hyperpigmentation=1, desquamation=4, angular_cheilitis=7}
+2021-10-22,California	{alcoholism=9, otitis_externa=10, indigestion=1, angular_cheilitis=4, desquamation=6}
+2021-10-23,California	{otitis_externa=10, hyperpigmentation=1, angular_cheilitis=3}
+2021-10-24,California	{alcoholism=9, otitis_externa=10, indigestion=1, abdominal_obesity=5, angular_cheilitis=4}
+2021-10-25,California	{alcoholism=9, otitis_externa=10, adrenal_crisis=1, desquamation=3, angular_cheilitis=7}
+2021-10-26,California	{alcoholism=9, otitis_externa=10, sinusitis=1, desquamation=3, angular_cheilitis=6}
+2021-10-27,California	{otitis_externa=10, hyperpigmentation=1, colitis=9, angular_cheilitis=4, desquamation=6}
+2021-10-28,California	{otitis_externa=10, colitis=8, low_grade_fever=1, desquamation=3, angular_cheilitis=7}
+2021-10-29,California	{alcoholism=9, otitis_externa=10, sinusitis=1, angular_cheilitis=3, desquamation=7}
+2021-10-30,California	{otitis_externa=10, hyperpigmentation=1, abdominal_obesity=2, desquamation=3, angular_cheilitis=4}
+2021-10-31,California	{alcoholism=8, otitis_externa=10, colitis=9, abdominal_obesity=3, angular_cheilitis=4}
+2021-11-01,California	{otitis_externa=10, colitis=9, desquamation=3, angular_cheilitis=8}
+2021-11-02,California	{alcoholism=9, otitis_externa=10, adrenal_crisis=1, desquamation=4, angular_cheilitis=6}
+2021-11-03,California	{alcoholism=9, otitis_externa=10, desquamation=5, angular_cheilitis=6}
+2021-11-04,California	{otitis_externa=10, iron_deficiency=1, desquamation=4, angular_cheilitis=5}
+2021-11-05,California	{alcoholism=9, otitis_externa=10, sinusitis=1, angular_cheilitis=3, desquamation=8}
+2021-11-06,California	{otitis_externa=10, colitis=9, abdominal_obesity=6, iron_deficiency=1, angular_cheilitis=3}
+2021-11-07,California	{otitis_externa=10, desquamation=1, angular_cheilitis=4}
+2021-11-08,California	{otitis_externa=10, angular_cheilitis=5}
+2021-11-09,California	{alcoholism=9, otitis_externa=10, angular_cheilitis=5, desquamation=6}
+2021-11-10,California	{otitis_externa=10, indigestion=1, angular_cheilitis=3, desquamation=5}
+2021-11-11,California	{alcoholism=9, otitis_externa=10, abdominal_obesity=3, angular_cheilitis=1, desquamation=6}
+2021-11-12,California	{otitis_externa=10, angular_cheilitis=3, desquamation=7}
+2021-11-13,California	{otitis_externa=10, abdominal_obesity=5, iron_deficiency=1, angular_cheilitis=2}
+2021-11-14,California	{alcoholism=9, otitis_externa=10, sinusitis=1, abdominal_obesity=3, angular_cheilitis=4}
+2021-11-15,California	{otitis_externa=10, desquamation=4, angular_cheilitis=6}
+2021-11-16,California	{otitis_externa=10, desquamation=4, angular_cheilitis=6}
+2021-11-17,California	{alcoholism=9, otitis_externa=10, desquamation=5, angular_cheilitis=6}
+2021-11-18,California	{otitis_externa=10, desquamation=4, angular_cheilitis=6}
+2021-11-19,California	{alcoholism=9, otitis_externa=10, hyperpigmentation=1, angular_cheilitis=3, desquamation=7}
+2021-11-20,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=7, angular_cheilitis=2}
+2021-11-21,California	{otitis_externa=10, abdominal_obesity=9, angular_cheilitis=1}
+2021-11-22,California	{otitis_externa=10, desquamation=1, angular_cheilitis=4}
+2021-11-23,California	{otitis_externa=10, abdominal_obesity=1, angular_cheilitis=3, desquamation=5}
+2021-11-24,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=4, angular_cheilitis=3}
+2021-11-25,California	{otitis_externa=10, abdominal_obesity=6, iron_deficiency=1, angular_cheilitis=3}
+2021-11-26,California	{otitis_externa=10, hyperpigmentation=1, abdominal_obesity=8, iron_deficiency=2}
+2021-11-27,California	{otitis_externa=10, constipation=2, abdominal_obesity=7, desquamation=1}
+2021-11-28,California	{alcoholism=8, otitis_externa=10, abdominal_obesity=5, angular_cheilitis=1, desquamation=6}
+2021-11-29,California	{alcoholism=9, otitis_externa=10, abdominal_obesity=1, angular_cheilitis=4, desquamation=5}
+2021-11-30,California	{otitis_externa=10, abdominal_obesity=1, desquamation=4, angular_cheilitis=5}
+2021-12-01,California	{otitis_externa=10, angular_cheilitis=5}
+2021-12-02,California	{otitis_externa=10, desquamation=4, angular_cheilitis=6}
+2021-12-03,California	{alcoholism=8, otitis_externa=10, constipation=1, angular_cheilitis=5, desquamation=6}
+2021-12-04,California	{alcoholism=9, otitis_externa=10, abdominal_obesity=3, desquamation=2, angular_cheilitis=4}
+2021-12-05,California	{alcoholism=8, otitis_externa=10, constipation=2, abdominal_obesity=6, angular_cheilitis=4}
+2021-12-06,California	{otitis_externa=10, angular_cheilitis=4, desquamation=6}
+2021-12-07,California	{otitis_externa=10, hyperpigmentation=1, desquamation=3, angular_cheilitis=6}
+2021-12-08,California	{alcoholism=8, otitis_externa=10, desquamation=5, angular_cheilitis=7}
+2021-12-09,California	{alcoholism=8, otitis_externa=10, constipation=1, desquamation=5, angular_cheilitis=6}
+2021-12-10,California	{otitis_externa=10, desquamation=4, angular_cheilitis=6}
+2021-12-11,California	{otitis_externa=10, abdominal_obesity=4, dentin_hypersensitivity=1, angular_cheilitis=3}
+2021-12-12,California	{otitis_externa=10, iron_deficiency=1, angular_cheilitis=4}
+2021-12-13,California	{alcoholism=9, otitis_externa=10, constipation=1, desquamation=3, angular_cheilitis=7}
+2021-12-14,California	{otitis_externa=10, constipation=1, desquamation=4, angular_cheilitis=5}
+2021-12-15,California	{alcoholism=9, otitis_externa=10, iron_deficiency=1, angular_cheilitis=5}
+2021-12-16,California	{alcoholism=9, otitis_externa=10, indigestion=1, desquamation=3, angular_cheilitis=7}
+2021-12-17,California	{alcoholism=9, otitis_externa=10, sinusitis=1, desquamation=2, angular_cheilitis=4}
+2021-12-18,California	{otitis_externa=10, constipation=4, abdominal_obesity=5, angular_cheilitis=1}
+2021-12-19,California	{otitis_externa=10, abdominal_obesity=7, iron_deficiency=2, desquamation=1}
+2021-12-20,California	{alcoholism=9, otitis_externa=10, indigestion=1, abdominal_obesity=4, angular_cheilitis=3}
+2021-12-21,California	{otitis_externa=10, hyperpigmentation=2, abdominal_obesity=6, angular_cheilitis=1}
+2021-12-22,California	{otitis_externa=10, constipation=3, abdominal_obesity=5, angular_cheilitis=1}
+2021-12-23,California	{alcoholism=9, otitis_externa=10, constipation=5, abdominal_obesity=3, angular_cheilitis=2}
+2021-12-24,California	{otitis_externa=10, constipation=4, abdominal_obesity=3, angular_cheilitis=1}
+2021-12-25,California	{otitis_externa=10, abdominal_obesity=4, angular_cheilitis=2}
+2021-12-26,California	{otitis_externa=10, abdominal_obesity=4, angular_cheilitis=1}
+2021-12-27,California	{otitis_externa=10, constipation=5, iron_deficiency=1, angular_cheilitis=2}
+2021-12-28,California	{alcoholism=9, otitis_externa=10, constipation=8, abdominal_obesity=2, desquamation=1}
+2021-12-29,California	{otitis_externa=10, constipation=8, abdominal_obesity=2}
+2021-12-30,California	{otitis_externa=10, constipation=7, desquamation=1, angular_cheilitis=2}
+2021-12-31,California	{otitis_externa=10, constipation=8, adrenal_crisis=1}
+2022-01-01,California	{otitis_externa=10, constipation=6, abdominal_obesity=4}
+2022-01-02,California	{otitis_externa=10, constipation=6, abdominal_obesity=2, angular_cheilitis=1}
+2022-01-03,California	{otitis_externa=10, constipation=6, angular_cheilitis=2}
+2022-01-04,California	{alcoholism=9, otitis_externa=10, constipation=7, angular_cheilitis=1, desquamation=2}
+2022-01-05,California	{alcoholism=9, otitis_externa=10, constipation=8, angular_cheilitis=1}
+2022-01-06,California	{otitis_externa=10, constipation=7, angular_cheilitis=1, desquamation=2}
+2022-01-07,California	{otitis_externa=10, constipation=7, angular_cheilitis=1, desquamation=2}
+2022-01-08,California	{alcoholism=9, otitis_externa=10, constipation=8, abdominal_obesity=1, angular_cheilitis=2}
+2022-01-09,California	{otitis_externa=10, constipation=7, abdominal_obesity=2, angular_cheilitis=1}
+2022-01-10,California	{otitis_externa=10, constipation=7, sinusitis=1, angular_cheilitis=2}
+2022-01-11,California	{otitis_externa=10, constipation=6, angular_cheilitis=2}
+2022-01-12,California	{alcoholism=9, otitis_externa=10, hyperpigmentation=1, angular_cheilitis=2, desquamation=4}
+2022-01-13,California	{otitis_externa=10, constipation=3, sinusitis=1, angular_cheilitis=2, desquamation=4}
+2022-01-14,California	{otitis_externa=10, abdominal_obesity=1, angular_cheilitis=2, desquamation=3}
+2022-01-15,California	{otitis_externa=10, constipation=5, abdominal_obesity=3, angular_cheilitis=1}
+2022-01-16,California	{otitis_externa=10, constipation=3, abdominal_obesity=5, angular_cheilitis=1}
+2022-01-17,California	{otitis_externa=10, constipation=3, abdominal_obesity=4, desquamation=1, angular_cheilitis=2}
+2022-01-18,California	{otitis_externa=10, constipation=2, desquamation=3, angular_cheilitis=5}
+2022-01-19,California	{otitis_externa=10, abdominal_obesity=1, angular_cheilitis=4}
+2022-01-20,California	{otitis_externa=10, sinusitis=1, angular_cheilitis=4}
+2022-01-21,California	{otitis_externa=10, constipation=2, angular_cheilitis=4}
+2022-01-22,California	{otitis_externa=10, constipation=2, abdominal_obesity=5, subdural_hematoma=1}
+2022-01-23,California	{alcoholism=9, otitis_externa=10, abdominal_obesity=7, angular_cheilitis=1}
+2022-01-24,California	{otitis_externa=10, abdominal_obesity=1, angular_cheilitis=4}
+2022-01-25,California	{otitis_externa=10, desquamation=4, angular_cheilitis=6}
+2022-01-26,California	{otitis_externa=10, angular_cheilitis=4, desquamation=6}
+2022-01-27,California	{otitis_externa=10, hyperpigmentation=1, angular_cheilitis=4, desquamation=5}
+2022-01-28,California	{otitis_externa=10, abdominal_obesity=1, angular_cheilitis=2, desquamation=7}
+2022-01-29,California	{otitis_externa=10, abdominal_obesity=6, iron_deficiency=1, angular_cheilitis=3}
+2022-01-30,California	{otitis_externa=10, indigestion=1, abdominal_obesity=5, angular_cheilitis=3}
+2022-01-31,California	{otitis_externa=10, angular_cheilitis=4, desquamation=6}
+2022-02-01,California	{alcoholism=9, otitis_externa=10, autoimmune_disease=1, angular_cheilitis=5}
+2022-02-02,California	{otitis_externa=10, colitis=9, angular_cheilitis=5, desquamation=6}
+2022-02-03,California	{otitis_externa=10, colitis=7, angular_cheilitis=5, desquamation=8}
+2022-02-04,California	{alcoholism=9, otitis_externa=10, colitis=5, angular_cheilitis=7, desquamation=8}
+2022-02-05,California	{alcoholism=9, otitis_externa=10, colitis=7, desquamation=3, angular_cheilitis=4}
+2022-02-06,California	{otitis_externa=10, colitis=7, desquamation=1, angular_cheilitis=6}
+2022-02-07,California	{otitis_externa=10, colitis=3, angular_cheilitis=8, desquamation=9}
+2022-02-08,California	{otitis_externa=10, colitis=5, abdominal_obesity=1, angular_cheilitis=6, desquamation=8}
+2022-02-09,California	{alcoholism=9, otitis_externa=10, colitis=3, angular_cheilitis=6, desquamation=8}
+2022-02-10,California	{otitis_externa=10, colitis=2, angular_cheilitis=8}
+2022-02-11,California	{otitis_externa=10, abdominal_obesity=1, angular_cheilitis=6, desquamation=9, skin_rash=2}
+2022-02-12,California	{otitis_externa=10, indigestion=1, abdominal_obesity=7, angular_cheilitis=3, desquamation=4}
+2022-02-13,California	{otitis_externa=10, abdominal_obesity=5, iron_deficiency=1, angular_cheilitis=4, desquamation=6}
+2022-02-14,California	{otitis_externa=10, colitis=3, angular_cheilitis=7}
+2022-02-15,California	{otitis_externa=10, colitis=2, abdominal_obesity=1, desquamation=7, angular_cheilitis=8}
+2022-02-16,California	{otitis_externa=10, hyperpigmentation=2, colitis=3, desquamation=6, angular_cheilitis=8}
+2022-02-17,California	{otitis_externa=10, colitis=3, abdominal_obesity=1, desquamation=7, angular_cheilitis=9}
+2022-02-18,California	{otitis_externa=10, colitis=3, abdominal_obesity=2, angular_cheilitis=5, desquamation=9}
+2022-02-19,California	{otitis_externa=10, colitis=5, abdominal_obesity=7, angular_cheilitis=2, desquamation=3}
+2022-02-20,California	{otitis_externa=10, abdominal_obesity=7, iron_deficiency=1, desquamation=2, angular_cheilitis=8}
+2022-02-21,California	{otitis_externa=10, abdominal_obesity=8, desquamation=2, angular_cheilitis=6, subdural_hematoma=1}
+2022-02-22,California	{otitis_externa=10, colitis=1, abdominal_obesity=5, desquamation=6, angular_cheilitis=7}
+2022-02-23,California	{otitis_externa=10, colitis=2, abdominal_obesity=3, angular_cheilitis=5, desquamation=9}
+2022-02-24,California	{otitis_externa=10, hyperpigmentation=2, abdominal_obesity=5, angular_cheilitis=4, desquamation=8}
+2022-02-25,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=3, angular_cheilitis=5, desquamation=9}
+2022-02-26,California	{otitis_externa=10, colitis=5, abdominal_obesity=6, desquamation=3, angular_cheilitis=4}
+2022-02-27,California	{otitis_externa=10, colitis=4, sinusitis=1, abdominal_obesity=8, angular_cheilitis=6}
+2022-02-28,California	{otitis_externa=10, colitis=2, abdominal_obesity=3, desquamation=6, angular_cheilitis=8}
+2022-03-01,California	{otitis_externa=10, abdominal_obesity=2, iron_deficiency=1, desquamation=8, angular_cheilitis=9}
+2022-03-02,California	{otitis_externa=10, hyperpigmentation=1, colitis=3, abdominal_obesity=2, angular_cheilitis=7}
+2022-03-03,California	{otitis_externa=10, abdominal_obesity=1, angular_cheilitis=9}
+2022-03-04,California	{otitis_externa=10, colitis=2, angular_cheilitis=9}
+2022-03-05,California	{otitis_externa=10, abdominal_obesity=5, desquamation=3, angular_cheilitis=7}
+2022-03-06,California	{otitis_externa=10, colitis=4, abdominal_obesity=8, desquamation=2, angular_cheilitis=6}
+2022-03-07,California	{otitis_externa=10, colitis=4, desquamation=8, angular_cheilitis=9}
+2022-03-08,California	{otitis_externa=10, colitis=4, abdominal_obesity=1, desquamation=6, angular_cheilitis=9}
+2022-03-09,California	{otitis_externa=10, colitis=4, sinusitis=1, desquamation=6, angular_cheilitis=9}
+2022-03-10,California	{colitis=3, desquamation=7, angular_cheilitis=10}
+2022-03-11,California	{desquamation=4, angular_cheilitis=10, rhinitis=1}
+2022-03-12,California	{alcoholism=9, colitis=4, abdominal_obesity=2, angular_cheilitis=10, rhinitis=1}
+2022-03-13,California	{alcoholism=9, colitis=5, indigestion=1, abdominal_obesity=4, angular_cheilitis=10}
+2022-03-14,California	{alcoholism=9, colitis=4, desquamation=7, angular_cheilitis=10}
+2022-03-15,California	{alcoholism=9, colitis=4, desquamation=7, angular_cheilitis=10}
+2022-03-16,California	{otitis_externa=10, colitis=3, abdominal_obesity=1, desquamation=7, angular_cheilitis=9}
+2022-03-17,California	{otitis_externa=10, colitis=3, iron_deficiency=1, angular_cheilitis=8}
+2022-03-18,California	{colitis=4, desquamation=6, angular_cheilitis=10}
+2022-03-19,California	{otitis_externa=10, colitis=6, autoimmune_disease=1, abdominal_obesity=2, angular_cheilitis=9}
+2022-03-20,California	{otitis_externa=10, sinusitis=1, abdominal_obesity=5, angular_cheilitis=8}
+2022-03-21,California	{colitis=6, desquamation=4, angular_cheilitis=10}
+2022-03-22,California	{otitis_externa=10, hyperpigmentation=1, colitis=4, desquamation=6, angular_cheilitis=9}
+2022-03-23,California	{otitis_externa=10, hyperpigmentation=1, colitis=3, desquamation=7, angular_cheilitis=9}
+2022-03-24,California	{otitis_externa=10, hyperpigmentation=3, colitis=4, desquamation=5, angular_cheilitis=8}
+2022-03-25,California	{otitis_externa=10, colitis=8, desquamation=5, angular_cheilitis=7}
+2022-03-26,California	{otitis_externa=10, colitis=8, autoimmune_disease=1, abdominal_obesity=3, angular_cheilitis=7}
+2022-03-27,California	{otitis_externa=10, attention_deficit_hyperactivity_disorder=9, angular_cheilitis=1}
+2022-03-28,California	{otitis_externa=10, attention_deficit_hyperactivity_disorder=9, desquamation=1}
+2022-03-29,California	{otitis_externa=10, angular_cheilitis=3, desquamation=4}
+2022-03-30,California	{otitis_externa=10, anosmia=6, stretch_marks=9, angular_cheilitis=1, desquamation=2}
+2022-03-31,California	{otitis_externa=10, colitis=2, anosmia=6, stretch_marks=9, angular_cheilitis=1}
+2022-04-01,California	{otitis_externa=10, anosmia=6, stretch_marks=9, angular_cheilitis=1, desquamation=2}
+2022-04-02,California	{otitis_externa=10, abdominal_obesity=3, stretch_marks=7, iron_deficiency=1, desquamation=2}
+2022-04-03,California	{otitis_externa=10, colitis=8, desquamation=1, angular_cheilitis=5}
+2022-04-04,California	{otitis_externa=10, colitis=8, abdominal_obesity=1, desquamation=4, angular_cheilitis=6}
+2022-04-05,California	{otitis_externa=10, angular_cheilitis=3, desquamation=7}
+2022-04-06,California	{otitis_externa=10, colitis=8, abdominal_obesity=1, angular_cheilitis=3, desquamation=7}
+2022-04-07,California	{alcoholism=9, otitis_externa=10, adrenal_crisis=1, angular_cheilitis=3, desquamation=6}
+2022-04-08,California	{otitis_externa=10, colitis=9, iron_deficiency=3, angular_cheilitis=2, desquamation=5}
+2022-04-09,California	{otitis_externa=10, abdominal_obesity=3, iron_deficiency=4, angular_cheilitis=1, desquamation=2}
+2022-04-10,California	{otitis_externa=10, abdominal_obesity=5, desquamation=1, angular_cheilitis=3}
+2022-04-11,California	{otitis_externa=10, angular_cheilitis=4, desquamation=6}
+2022-04-12,California	{otitis_externa=10, angular_cheilitis=4, desquamation=6}
+2022-04-13,California	{otitis_externa=10, colitis=9, sinusitis=1, angular_cheilitis=5}
+2022-04-14,California	{otitis_externa=10, colitis=9, abdominal_obesity=1, angular_cheilitis=4, desquamation=5}
+2022-04-15,California	{otitis_externa=10, colitis=9, sinusitis=1, angular_cheilitis=3, desquamation=6}
+2022-04-16,California	{alcoholism=9, otitis_externa=10, abdominal_obesity=5, angular_cheilitis=1, desquamation=3}
+2022-04-17,California	{otitis_externa=10, colitis=8, sinusitis=1, abdominal_obesity=6, angular_cheilitis=3}
+2022-04-18,California	{otitis_externa=10, angular_cheilitis=5}
+2022-04-19,California	{otitis_externa=10, colitis=9, angular_cheilitis=4, desquamation=7}
+2022-04-20,California	{otitis_externa=10, iron_deficiency=1, desquamation=4, angular_cheilitis=5}
+2022-04-21,California	{otitis_externa=10, colitis=9, angular_cheilitis=3, desquamation=5}
+2022-04-22,California	{otitis_externa=10, colitis=9, angular_cheilitis=4, desquamation=7}
+2022-04-23,California	{otitis_externa=10, colitis=9, sinusitis=1, abdominal_obesity=5, angular_cheilitis=3}
+2022-04-24,California	{otitis_externa=10, colitis=9, sinusitis=2, abdominal_obesity=4, angular_cheilitis=3}
+2022-04-25,California	{otitis_externa=10, colitis=9, iron_deficiency=1, desquamation=3, angular_cheilitis=7}
+2022-04-26,California	{otitis_externa=10, desquamation=4, angular_cheilitis=6}
+2022-04-27,California	{otitis_externa=10, colitis=9, sinusitis=1, desquamation=2, angular_cheilitis=7}
+2022-04-28,California	{otitis_externa=10, colitis=9, indigestion=1, desquamation=4, angular_cheilitis=5}
+2022-04-29,California	{otitis_externa=10, angular_cheilitis=4, desquamation=6}
+2022-04-30,California	{otitis_externa=10, abdominal_obesity=5, iron_deficiency=2, angular_cheilitis=1}
+2022-05-01,California	{otitis_externa=10, colitis=9, sinusitis=2, abdominal_obesity=3, angular_cheilitis=4}
+2022-05-02,California	{otitis_externa=10, colitis=9, sinusitis=1, angular_cheilitis=3, desquamation=7}
+2022-05-03,California	{otitis_externa=10, hyperpigmentation=1, angular_cheilitis=2, desquamation=7}
+2022-05-04,California	{otitis_externa=10, hyperpigmentation=1, colitis=9, angular_cheilitis=4, desquamation=6}
+2022-05-05,California	{alcoholism=9, otitis_externa=10, hyperpigmentation=3, angular_cheilitis=4, desquamation=5}
+2022-05-06,California	{otitis_externa=10, colitis=9, angular_cheilitis=3, desquamation=5}
+2022-05-07,California	{alcoholism=9, otitis_externa=10, abdominal_obesity=5, angular_cheilitis=1, desquamation=2}
+2022-05-08,California	{otitis_externa=10, abdominal_obesity=7, iron_deficiency=1, desquamation=2}
+2022-05-09,California	{otitis_externa=10, angular_cheilitis=5}
+2022-05-10,California	{otitis_externa=10, hyperpigmentation=1, colitis=9, angular_cheilitis=5}
+2022-05-11,California	{alcoholism=9, otitis_externa=10, angular_cheilitis=4, desquamation=7}
+2022-05-12,California	{otitis_externa=10, colitis=9, sinusitis=1, angular_cheilitis=5}
+2022-05-13,California	{otitis_externa=10, colitis=9, sinusitis=1, angular_cheilitis=5}
+2022-05-14,California	{otitis_externa=10, colitis=9, sinusitis=2, abdominal_obesity=5, angular_cheilitis=1}
+2022-05-15,California	{alcoholism=9, otitis_externa=10, abdominal_obesity=3, iron_deficiency=5, angular_cheilitis=1}
+2022-05-16,California	{otitis_externa=10, sinusitis=1, angular_cheilitis=4, desquamation=5}
+2022-05-17,California	{otitis_externa=10, colitis=9, autoimmune_disease=1, angular_cheilitis=3, desquamation=7}
+2022-05-18,California	{otitis_externa=10, colitis=9, iron_deficiency=1, angular_cheilitis=4, desquamation=6}
+2022-05-19,California	{otitis_externa=10, dentin_hypersensitivity=1, angular_cheilitis=3, desquamation=5}
+2022-05-20,California	{otitis_externa=10, sinusitis=1, angular_cheilitis=2, desquamation=7}
+2022-05-21,California	{otitis_externa=10, colitis=9, sinusitis=2, abdominal_obesity=5, iron_deficiency=3}
+2022-05-22,California	{otitis_externa=10, abdominal_obesity=3, iron_deficiency=4, angular_cheilitis=1}
+2022-05-23,California	{otitis_externa=10, sinusitis=1, angular_cheilitis=3}
+2022-05-24,California	{otitis_externa=10, colitis=9, iron_deficiency=2, angular_cheilitis=3, desquamation=4}
+2022-05-25,California	{otitis_externa=10, colitis=9, iron_deficiency=2, angular_cheilitis=3, desquamation=4}
+2022-05-26,California	{otitis_externa=10, colitis=9, sinusitis=1, angular_cheilitis=3, desquamation=6}
+2022-05-27,California	{otitis_externa=10, sinusitis=1, angular_cheilitis=3, desquamation=6}
+2022-05-28,California	{otitis_externa=10, constipation=1, abdominal_obesity=4, iron_deficiency=3, angular_cheilitis=2}
+2022-05-29,California	{otitis_externa=10, colitis=9, abdominal_obesity=3, iron_deficiency=5, angular_cheilitis=2}
+2022-05-30,California	{otitis_externa=10, colitis=9, sinusitis=1, abdominal_obesity=3, iron_deficiency=6}
+2022-05-31,California	{otitis_externa=10, iron_deficiency=3, angular_cheilitis=1, desquamation=5}
+2022-06-01,California	{otitis_externa=10, sinusitis=1, angular_cheilitis=2, desquamation=6}
+2022-06-02,California	{otitis_externa=10, sinusitis=1, angular_cheilitis=4, desquamation=5}
+2022-06-03,California	{otitis_externa=10, angular_cheilitis=2, desquamation=5, subdural_hematoma=1}
+2022-06-04,California	{otitis_externa=10, abdominal_obesity=4, angular_cheilitis=1, desquamation=2}
+2022-06-05,California	{otitis_externa=10, abdominal_obesity=3, angular_cheilitis=1, desquamation=4}
+2022-06-06,California	{otitis_externa=10, angular_cheilitis=1, desquamation=9}
+2022-06-07,California	{otitis_externa=10, angular_cheilitis=1, desquamation=9}
+2022-06-08,California	{otitis_externa=10, constipation=1, colitis=9, angular_cheilitis=2, desquamation=8}
+2022-06-09,California	{otitis_externa=10, colitis=9, iron_deficiency=1, angular_cheilitis=4, desquamation=6}
+2022-06-10,California	{eye_pain=5, otitis_externa=10, colitis=9, sinusitis=2, angular_cheilitis=1}
+2022-06-11,California	{eye_pain=5, otitis_externa=10, colitis=8, sinusitis=2, iron_deficiency=4}
+2022-06-12,California	{otitis_externa=10, colitis=8, abdominal_obesity=2, subdural_hematoma=1}
+2022-06-13,California	{otitis_externa=10, colitis=8, iron_deficiency=3, angular_cheilitis=1, desquamation=5}
+2022-06-14,California	{otitis_externa=10, colitis=9, iron_deficiency=3, angular_cheilitis=1, desquamation=6}
+2022-06-15,California	{otitis_externa=10, colitis=8, abdominal_obesity=1, angular_cheilitis=2, desquamation=7}
+2022-06-16,California	{otitis_externa=10, colitis=9, abdominal_obesity=1, iron_deficiency=2, desquamation=7}
+2022-06-17,California	{otitis_externa=10, angular_cheilitis=2, desquamation=6}
+2022-06-18,California	{otitis_externa=10, colitis=9, abdominal_obesity=2, iron_deficiency=5, angular_cheilitis=1}
+2022-06-19,California	{otitis_externa=10, abdominal_obesity=3, iron_deficiency=6, desquamation=1}
+2022-06-20,California	{otitis_externa=10, colitis=9, sinusitis=2, abdominal_obesity=3, iron_deficiency=4}
+2022-06-21,California	{otitis_externa=10, colitis=8, abdominal_obesity=2, iron_deficiency=4, desquamation=3}
+2022-06-22,California	{otitis_externa=10, colitis=8, abdominal_obesity=3, iron_deficiency=2, desquamation=6}
+2022-06-23,California	{otitis_externa=10, colitis=8, abdominal_obesity=1, iron_deficiency=3, desquamation=7}
+2022-06-24,California	{otitis_externa=10, colitis=8, iron_deficiency=4, angular_cheilitis=1, desquamation=6}
+2022-06-25,California	{otitis_externa=10, colitis=9, sinusitis=2, abdominal_obesity=3, iron_deficiency=5}
+2022-06-26,California	{otitis_externa=10, colitis=9, sinusitis=1, abdominal_obesity=3, iron_deficiency=6}
+2022-06-27,California	{otitis_externa=10, colitis=8, sinusitis=2, iron_deficiency=4, desquamation=5}
+2022-06-28,California	{otitis_externa=10, colitis=6, sinusitis=1, iron_deficiency=5, desquamation=8}
+2022-06-29,California	{otitis_externa=10, indigestion=8, sinusitis=2, location_key=4, adrenal_crisis=3}
+2022-06-30,California	{otitis_externa=10, colitis=8, indigestion=3, sinusitis=2, desquamation=5}
+2022-07-01,California	{otitis_externa=10, colitis=8, sinusitis=2, iron_deficiency=4, desquamation=6}
+2022-07-02,California	{otitis_externa=10, colitis=9, sinusitis=1, abdominal_obesity=2, iron_deficiency=7}
+2022-07-03,California	{otitis_externa=10, colitis=8, sinusitis=2, abdominal_obesity=5}
+2022-07-04,California	{otitis_externa=10, colitis=9, sinusitis=2, abdominal_obesity=3, iron_deficiency=5}
+2022-07-05,California	{otitis_externa=10, colitis=7, abdominal_obesity=2, angular_cheilitis=3}
+2022-07-06,California	{otitis_externa=10, colitis=7, abdominal_obesity=2, angular_cheilitis=3, desquamation=5}
+2022-07-07,California	{otitis_externa=10, colitis=8, angular_cheilitis=1, desquamation=9}
+2022-07-08,California	{otitis_externa=10, desquamation=8, subdural_hematoma=1}
+2022-07-09,California	{otitis_externa=10, colitis=7, sinusitis=3, abdominal_obesity=4, iron_deficiency=2}
+2022-07-10,California	{otitis_externa=10, colitis=7, sinusitis=3, abdominal_obesity=4, desquamation=2}
+2022-07-11,California	{otitis_externa=10, abdominal_obesity=5, angular_cheilitis=1, desquamation=4}
+2022-07-12,California	{otitis_externa=10, colitis=7, abdominal_obesity=3, angular_cheilitis=2, desquamation=5}
+2022-07-13,California	{otitis_externa=10, colitis=8, angular_cheilitis=1, desquamation=7}
+2022-07-14,California	{otitis_externa=10, colitis=8, abdominal_obesity=1, angular_cheilitis=3, desquamation=6}
+2022-07-15,California	{otitis_externa=10, colitis=6, iron_deficiency=3, angular_cheilitis=2, desquamation=7}
+2022-07-16,California	{otitis_externa=10, colitis=8, sinusitis=3, abdominal_obesity=2, iron_deficiency=4}
+2022-07-17,California	{otitis_externa=10, colitis=7, sinusitis=2, abdominal_obesity=3, desquamation=1}
+2022-07-18,California	{otitis_externa=10, hyperpigmentation=3, colitis=5, angular_cheilitis=2, desquamation=4}
+2022-07-19,California	{otitis_externa=10, abdominal_obesity=4, iron_deficiency=3, angular_cheilitis=2, desquamation=5}
+2022-07-20,California	{otitis_externa=10, colitis=5, iron_deficiency=2, angular_cheilitis=3, desquamation=6}
+2022-07-21,California	{otitis_externa=10, colitis=5, iron_deficiency=3, angular_cheilitis=4, desquamation=6}
+2022-07-22,California	{otitis_externa=10, abdominal_obesity=2, iron_deficiency=3, desquamation=4, angular_cheilitis=5}
+2022-07-23,California	{otitis_externa=10, colitis=6, sinusitis=2, angular_cheilitis=3}
+2022-07-24,California	{otitis_externa=10, sinusitis=2, abdominal_obesity=5, desquamation=4}
+2022-07-25,California	{otitis_externa=10, colitis=6, sinusitis=2, abdominal_obesity=3, desquamation=5}
+2022-07-26,California	{otitis_externa=10, colitis=3, abdominal_obesity=4, angular_cheilitis=2, desquamation=8}
+2022-07-27,California	{otitis_externa=10, abdominal_obesity=3, iron_deficiency=5, adrenal_crisis=1, desquamation=7}
+2022-07-28,California	{otitis_externa=10, colitis=3, sinusitis=2, abdominal_obesity=4, desquamation=7}
+2022-07-29,California	{alcoholism=8, otitis_externa=10, abdominal_obesity=6, iron_deficiency=4, desquamation=7}
+2022-07-30,California	{otitis_externa=10, colitis=1, sinusitis=3, abdominal_obesity=6, iron_deficiency=7}
+2022-07-31,California	{otitis_externa=10, sinusitis=4, abdominal_obesity=6, iron_deficiency=8, adrenal_crisis=1}
+2022-08-01,California	{otitis_externa=10, abdominal_obesity=4, angular_cheilitis=3, desquamation=6}
+2022-08-02,California	{otitis_externa=10, sinusitis=2, abdominal_obesity=3, iron_deficiency=6, desquamation=9}
+2022-08-03,California	{otitis_externa=10, sinusitis=2, abdominal_obesity=4, iron_deficiency=5, desquamation=8}
+2022-08-04,California	{otitis_externa=10, abdominal_obesity=4, iron_deficiency=5, angular_cheilitis=2, desquamation=7}
+2022-08-05,California	{otitis_externa=10, abdominal_obesity=4, iron_deficiency=7, angular_cheilitis=1, desquamation=8}
+2022-08-06,California	{otitis_externa=10, sinusitis=3, abdominal_obesity=4, iron_deficiency=7, desquamation=5}
+2022-08-07,California	{alcoholism=9, otitis_externa=10, abdominal_obesity=5, iron_deficiency=7, angular_cheilitis=2}
+2022-08-08,California	{otitis_externa=10, abdominal_obesity=4, angular_cheilitis=2, desquamation=8}
+2022-08-09,California	{alcoholism=9, otitis_externa=10, abdominal_obesity=5, iron_deficiency=4, desquamation=8}
+2022-08-10,California	{otitis_externa=10, abdominal_obesity=4, angular_cheilitis=3, desquamation=7}
+2022-08-11,California	{otitis_externa=10, colitis=1, sinusitis=4, angular_cheilitis=2, desquamation=8}
+2022-08-12,California	{otitis_externa=10, sinusitis=6, abdominal_obesity=2, iron_deficiency=7, desquamation=4}
+2022-08-13,California	{otitis_externa=10, sinusitis=4, abdominal_obesity=5, iron_deficiency=8, angular_cheilitis=1}
+2022-08-14,California	{otitis_externa=10, sinusitis=4, abdominal_obesity=6, iron_deficiency=8, desquamation=1}
+2022-08-15,California	{otitis_externa=10, sinusitis=1, iron_deficiency=5, angular_cheilitis=3, desquamation=6}
+2022-08-16,California	{alcoholism=9, otitis_externa=10, abdominal_obesity=6, angular_cheilitis=3, subdural_hematoma=1}
+2022-08-17,California	{otitis_externa=10, colitis=1, abdominal_obesity=5, angular_cheilitis=4, desquamation=8}
+2022-08-18,California	{otitis_externa=10, colitis=1, abdominal_obesity=5, angular_cheilitis=3, desquamation=9}
+2022-08-19,California	{alcoholism=9, otitis_externa=10, iron_deficiency=4, desquamation=7, granuloma=3}
+2022-08-20,California	{otitis_externa=10, abdominal_obesity=7, iron_deficiency=6, angular_cheilitis=1, desquamation=5}
+2022-08-21,California	{otitis_externa=10, sinusitis=2, abdominal_obesity=7, iron_deficiency=4, desquamation=3}
+2022-08-22,California	{otitis_externa=10, sinusitis=2, abdominal_obesity=4, angular_cheilitis=3, desquamation=8}
+2022-08-23,California	{otitis_externa=10, colitis=3, abdominal_obesity=2, angular_cheilitis=7, desquamation=8}
+2022-08-24,California	{otitis_externa=10, colitis=2, abdominal_obesity=1, angular_cheilitis=7, desquamation=9}
+2022-08-25,California	{alcoholism=9, otitis_externa=10, abdominal_obesity=1, iron_deficiency=2, angular_cheilitis=5}
+2022-08-26,California	{otitis_externa=10, colitis=6, abdominal_obesity=2, angular_cheilitis=1, desquamation=9}
+2022-08-27,California	{otitis_externa=10, colitis=8, abdominal_obesity=5, angular_cheilitis=1, desquamation=3}
+2022-08-28,California	{otitis_externa=10, colitis=9, abdominal_obesity=7, iron_deficiency=3, desquamation=1}
+2022-08-29,California	{otitis_externa=10, hyperpigmentation=1, colitis=7, abdominal_obesity=2, angular_cheilitis=5}
+2022-08-30,California	{otitis_externa=10, colitis=9, abdominal_obesity=1, angular_cheilitis=3, desquamation=6}
+2022-08-31,California	{otitis_externa=10, hyperpigmentation=1, colitis=8, angular_cheilitis=4, desquamation=7}
+2022-09-01,California	{otitis_externa=10, hyperpigmentation=2, colitis=9, angular_cheilitis=4, desquamation=5}
+2022-09-02,California	{otitis_externa=10, colitis=8, abdominal_obesity=1, angular_cheilitis=3, desquamation=7}
+2022-09-03,California	{otitis_externa=10, hyperpigmentation=1, colitis=9, abdominal_obesity=4, iron_deficiency=6}
+2022-09-04,California	{otitis_externa=10, colitis=9, abdominal_obesity=4, iron_deficiency=6, angular_cheilitis=1}
+2022-09-05,California	{otitis_externa=10, colitis=6, abdominal_obesity=4, iron_deficiency=8, angular_cheilitis=1}
+2022-09-06,California	{otitis_externa=10, hyperpigmentation=1, colitis=5, desquamation=7}
+2022-09-07,California	{otitis_externa=10, colitis=6, abdominal_obesity=1, iron_deficiency=4, desquamation=8}
+2022-09-08,California	{otitis_externa=10, hyperpigmentation=1, colitis=7, iron_deficiency=4, desquamation=8}
+2022-09-09,California	{otitis_externa=10, colitis=6, abdominal_obesity=1, angular_cheilitis=3, desquamation=7}
+2022-09-10,California	{alcoholism=9, otitis_externa=10, colitis=7, abdominal_obesity=3, iron_deficiency=8}
+2022-09-11,California	{otitis_externa=10, abdominal_obesity=5, iron_deficiency=4, angular_cheilitis=2}
