@@ -1,4 +1,5 @@
-# RBDA_project
+# Realtime and Big Data Analytics Project CSCI-GA.2436
+This study examines the relationship between weather patterns and the spread of COVID-19 using MapReduce, Hive, and Tableau. Our results show that while a negative correlation between COVID-19 cases and factors such as temperature and air quality may exist, it is not significant due to the influence of other factors that affect social distancing behaviors. Furthermore, we found that the relationship between COVID-19 cases and sentiment expressed in tweets is not significant due to the presence of confounding variables. These findings highlight the need for further research to fully understand the complex relationship between weather and the spread of COVID-19.
 
 # Jiraphon's code
 | Data source  | Information |
